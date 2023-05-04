@@ -1,0 +1,1938 @@
+survey_question	survey_free_response	ontology_mapping
+eb_b034a_med3_name_CHILDQ	5-htp	CHEBI:28171
+eb_b032a_med1_name_CHILDQ	6-mercaptopurine	CHEBI:50667
+eb_b032a_med1_name_CHILDQ	abilify	CHEBI:31236
+eb_b033a_med2_name_CHILDQ	abilify	CHEBI:31236
+eb_b034a_med3_name_CHILDQ	abilify	CHEBI:31236
+eb_b036a_med5_name_CHILDQ	abilify	CHEBI:31236
+eb_b041a_med10_name_CHILDQ	abilify	CHEBI:31236
+eb_b033a_med2_name_CHILDQ	acebutolol	CHEBI:2379
+eb_b032a_med1_name_CHILDQ	acetaminophen	CHEBI:46195
+eb_b033a_med2_name_CHILDQ	acetaminophen	CHEBI:46195
+eb_b034a_med3_name_CHILDQ	acetaminophen	CHEBI:46195
+eb_b035a_med4_name_CHILDQ	acetaminophen	CHEBI:46195
+eb_b037a_med6_name_CHILDQ	acetaminophen	CHEBI:46195
+eb_b038a_med7_name_CHILDQ	acetaminophen	CHEBI:46195
+eb_b039a_med8_name_CHILDQ	acetaminophen	CHEBI:46195
+eb_b040a_med9_name_CHILDQ	acetaminophen	CHEBI:46195
+eb_b034a_med3_name_CHILDQ	acetazolamide	CHEBI:27690
+eb_b039a_med8_name_CHILDQ	acetyl-l-carnitine	CHEBI:57589
+eb_b032a_med1_name_CHILDQ	aciphex	CHEBI:8769
+eb_b034a_med3_name_CHILDQ	aciphex	CHEBI:8769
+eb_b033a_med2_name_CHILDQ	actonel	CHEBI:8869
+eb_b032a_med1_name_CHILDQ	acular	CHEBI:6130
+eb_b032a_med1_name_CHILDQ	acyclovir	CHEBI:2453
+eb_b033a_med2_name_CHILDQ	acyclovir	CHEBI:2453
+eb_b034a_med3_name_CHILDQ	acyclovir	CHEBI:2453
+eb_b035a_med4_name_CHILDQ	acyclovir	CHEBI:2453
+eb_b036a_med5_name_CHILDQ	acyclovir	CHEBI:2453
+eb_b037a_med6_name_CHILDQ	acyclovir	CHEBI:2453
+eb_b032a_med1_name_CHILDQ	advil	CHEBI:5855
+eb_b033a_med2_name_CHILDQ	advil	CHEBI:5855
+eb_b034a_med3_name_CHILDQ	advil	CHEBI:5855
+eb_b035a_med4_name_CHILDQ	advil	CHEBI:5855
+eb_b036a_med5_name_CHILDQ	advil	CHEBI:5855
+eb_b037a_med6_name_CHILDQ	advil	CHEBI:5855
+eb_b039a_med8_name_CHILDQ	advil	CHEBI:5855
+eb_b033a_med2_name_CHILDQ	alavert	CHEBI:6538
+eb_b034a_med3_name_CHILDQ	alavert	CHEBI:6538
+eb_b035a_med4_name_CHILDQ	alavert	CHEBI:6538
+eb_b032a_med1_name_CHILDQ	albuterol	CHEBI:2549
+eb_b033a_med2_name_CHILDQ	albuterol	CHEBI:2549
+eb_b034a_med3_name_CHILDQ	albuterol	CHEBI:2549
+eb_b035a_med4_name_CHILDQ	albuterol	CHEBI:2549
+eb_b036a_med5_name_CHILDQ	albuterol	CHEBI:2549
+eb_b037a_med6_name_CHILDQ	albuterol	CHEBI:2549
+eb_b038a_med7_name_CHILDQ	albuterol	CHEBI:2549
+eb_b040a_med9_name_CHILDQ	albuterol	CHEBI:2549
+eb_b034a_med3_name_CHILDQ	albuterol sulfate	CHEBI:2550
+eb_b036a_med5_name_CHILDQ	albuterol sulfate	CHEBI:2550
+eb_b032a_med1_name_CHILDQ	alendronate	CHEBI:2567
+eb_b033a_med2_name_CHILDQ	alendronate	CHEBI:2567
+eb_b034a_med3_name_CHILDQ	alendronate	CHEBI:2567
+eb_b035a_med4_name_CHILDQ	alendronate	CHEBI:2567
+eb_b036a_med5_name_CHILDQ	alendronate	CHEBI:2567
+eb_b038a_med7_name_CHILDQ	alendronate	CHEBI:2567
+eb_b032a_med1_name_CHILDQ	alfuzosin	CHEBI:51141
+eb_b033a_med2_name_CHILDQ	alfuzosin	CHEBI:51141
+eb_b033a_med2_name_CHILDQ	allerclear	CHEBI:6538
+eb_b036a_med5_name_CHILDQ	allerclear	CHEBI:6538
+eb_b032a_med1_name_CHILDQ	allopurinol	CHEBI:40279
+eb_b033a_med2_name_CHILDQ	allopurinol	CHEBI:40279
+eb_b034a_med3_name_CHILDQ	allopurinol	CHEBI:40279
+eb_b035a_med4_name_CHILDQ	allopurinol	CHEBI:40279
+eb_b036a_med5_name_CHILDQ	allopurinol	CHEBI:40279
+eb_b032a_med1_name_CHILDQ	alopurinol	CHEBI:40279
+eb_b035a_med4_name_CHILDQ	alopurinol	CHEBI:40279
+eb_b033a_med2_name_CHILDQ	alphagan p	CHEBI:51157
+eb_b032a_med1_name_CHILDQ	alprazolam	CHEBI:2611
+eb_b033a_med2_name_CHILDQ	alprazolam	CHEBI:2611
+eb_b034a_med3_name_CHILDQ	alprazolam	CHEBI:2611
+eb_b035a_med4_name_CHILDQ	alprazolam	CHEBI:2611
+eb_b036a_med5_name_CHILDQ	alprazolam	CHEBI:2611
+eb_b037a_med6_name_CHILDQ	alprazolam	CHEBI:2611
+eb_b033a_med2_name_CHILDQ	amaryl	CHEBI:5383
+eb_b036a_med5_name_CHILDQ	amaryl	CHEBI:5383
+eb_b032a_med1_name_CHILDQ	amiloride	CHEBI:2639
+eb_b034a_med3_name_CHILDQ	amiloride	CHEBI:2639
+eb_b033a_med2_name_CHILDQ	amiodarone	CHEBI:2663
+eb_b035a_med4_name_CHILDQ	amitiza	CHEBI:34945
+eb_b033a_med2_name_CHILDQ	amitriptylin	CHEBI:2666
+eb_b033a_med2_name_CHILDQ	amitriptyline	CHEBI:2666
+eb_b034a_med3_name_CHILDQ	amitriptyline	CHEBI:2666
+eb_b036a_med5_name_CHILDQ	amitriptyline	CHEBI:2666
+eb_b037a_med6_name_CHILDQ	amitriptyline	CHEBI:2666
+eb_b032a_med1_name_CHILDQ	amlodipine	CHEBI:2668
+eb_b033a_med2_name_CHILDQ	amlodipine	CHEBI:2668
+eb_b034a_med3_name_CHILDQ	amlodipine	CHEBI:2668
+eb_b035a_med4_name_CHILDQ	amlodipine	CHEBI:2668
+eb_b036a_med5_name_CHILDQ	amlodipine	CHEBI:2668
+eb_b037a_med6_name_CHILDQ	amlodipine	CHEBI:2668
+eb_b038a_med7_name_CHILDQ	amlodipine	CHEBI:2668
+eb_b039a_med8_name_CHILDQ	amlodipine	CHEBI:2668
+eb_b040a_med9_name_CHILDQ	amlodipine	CHEBI:2668
+eb_b032a_med1_name_CHILDQ	amlodipine besylate	CHEBI:2669
+eb_b033a_med2_name_CHILDQ	amlodipine besylate	CHEBI:2669
+eb_b034a_med3_name_CHILDQ	amlodipine besylate	CHEBI:2669
+eb_b035a_med4_name_CHILDQ	amlodipine besylate	CHEBI:2669
+eb_b036a_med5_name_CHILDQ	amlodipine besylate	CHEBI:2669
+eb_b037a_med6_name_CHILDQ	amlodipine besylate	CHEBI:2669
+eb_b039a_med8_name_CHILDQ	amlodipine besylate	CHEBI:2669
+eb_b033a_med2_name_CHILDQ	ammonium	CHEBI:28938
+eb_b032a_med1_name_CHILDQ	amoxicillin	CHEBI:2676
+eb_b035a_med4_name_CHILDQ	amoxicillin	CHEBI:2676
+eb_b040a_med9_name_CHILDQ	amoxicillin	CHEBI:2676
+eb_b035a_med4_name_CHILDQ	amphetamin	CHEBI:2679
+eb_b032a_med1_name_CHILDQ	amphetamine	CHEBI:2679
+eb_b032a_med1_name_CHILDQ	amphetamine	CHEBI:2679
+eb_b033a_med2_name_CHILDQ	amphetamine	CHEBI:2679
+eb_b033a_med2_name_CHILDQ	amphetamine	CHEBI:2679
+eb_b037a_med6_name_CHILDQ	amphetamine	CHEBI:2679
+eb_b037a_med6_name_CHILDQ	amphetamine	CHEBI:2679
+eb_b032a_med1_name_CHILDQ	ampyra	CHEBI:34385
+eb_b032a_med1_name_CHILDQ	anastrozole	CHEBI:2704
+eb_b033a_med2_name_CHILDQ	anastrozole	CHEBI:2704
+eb_b034a_med3_name_CHILDQ	anastrozole	CHEBI:2704
+eb_b035a_med4_name_CHILDQ	anastrozole	CHEBI:2704
+eb_b040a_med9_name_CHILDQ	anastrozole	CHEBI:2704
+eb_b035a_med4_name_CHILDQ	antacid	CHEBI:65265
+eb_b035a_med4_name_CHILDQ	antihistamine	CHEBI:37956
+eb_b035a_med4_name_CHILDQ	apap	CHEBI:46195
+eb_b036a_med5_name_CHILDQ	apap	CHEBI:46195
+eb_b032a_med1_name_CHILDQ	apixaban	CHEBI:72296
+eb_b040a_med9_name_CHILDQ	armodafinil	CHEBI:77590
+eb_b032a_med1_name_CHILDQ	armour thyroid	CHEBI:9584
+eb_b033a_med2_name_CHILDQ	armour thyroid	CHEBI:9584
+eb_b034a_med3_name_CHILDQ	armour thyroid	CHEBI:9584
+eb_b035a_med4_name_CHILDQ	armour thyroid	CHEBI:9584
+eb_b036a_med5_name_CHILDQ	armour thyroid	CHEBI:9584
+eb_b032a_med1_name_CHILDQ	arthrotec	CHEBI:63610
+eb_b032a_med1_name_CHILDQ	asa	CHEBI:15365
+eb_b033a_med2_name_CHILDQ	asa	CHEBI:15365
+eb_b034a_med3_name_CHILDQ	asa	CHEBI:15365
+eb_b035a_med4_name_CHILDQ	asa	CHEBI:15365
+eb_b036a_med5_name_CHILDQ	asa	CHEBI:15365
+eb_b037a_med6_name_CHILDQ	asa	CHEBI:15365
+eb_b038a_med7_name_CHILDQ	asa	CHEBI:15365
+eb_b032a_med1_name_CHILDQ	asacol	CHEBI:6775
+eb_b036a_med5_name_CHILDQ	asacol	CHEBI:6775
+eb_b037a_med6_name_CHILDQ	ascorbic acid	CHEBI:22652
+eb_b037a_med6_name_CHILDQ	ascorbic acid	CHEBI:22652
+eb_b032a_med1_name_CHILDQ	aspirin	CHEBI:15365
+eb_b033a_med2_name_CHILDQ	aspirin	CHEBI:15365
+eb_b034a_med3_name_CHILDQ	aspirin	CHEBI:15365
+eb_b035a_med4_name_CHILDQ	aspirin	CHEBI:15365
+eb_b036a_med5_name_CHILDQ	aspirin	CHEBI:15365
+eb_b037a_med6_name_CHILDQ	aspirin	CHEBI:15365
+eb_b038a_med7_name_CHILDQ	aspirin	CHEBI:15365
+eb_b039a_med8_name_CHILDQ	aspirin	CHEBI:15365
+eb_b040a_med9_name_CHILDQ	aspirin	CHEBI:15365
+eb_b041a_med10_name_CHILDQ	aspirin	CHEBI:15365
+eb_b041a_med10_name_CHILDQ	atarax	CHEBI:5819
+eb_b032a_med1_name_CHILDQ	atenolol	CHEBI:2904
+eb_b033a_med2_name_CHILDQ	atenolol	CHEBI:2904
+eb_b034a_med3_name_CHILDQ	atenolol	CHEBI:2904
+eb_b035a_med4_name_CHILDQ	atenolol	CHEBI:2904
+eb_b036a_med5_name_CHILDQ	atenolol	CHEBI:2904
+eb_b032a_med1_name_CHILDQ	ativan	CHEBI:6539
+eb_b033a_med2_name_CHILDQ	ativan	CHEBI:6539
+eb_b036a_med5_name_CHILDQ	ativan	CHEBI:6539
+eb_b037a_med6_name_CHILDQ	atomoxetine	CHEBI:127342
+eb_b032a_med1_name_CHILDQ	atorvastatin	CHEBI:39548
+eb_b033a_med2_name_CHILDQ	atorvastatin	CHEBI:39548
+eb_b034a_med3_name_CHILDQ	atorvastatin	CHEBI:39548
+eb_b035a_med4_name_CHILDQ	atorvastatin	CHEBI:39548
+eb_b036a_med5_name_CHILDQ	atorvastatin	CHEBI:39548
+eb_b037a_med6_name_CHILDQ	atorvastatin	CHEBI:39548
+eb_b038a_med7_name_CHILDQ	atorvastatin	CHEBI:39548
+eb_b039a_med8_name_CHILDQ	atorvastatin	CHEBI:39548
+eb_b040a_med9_name_CHILDQ	atorvastatin	CHEBI:39548
+eb_b041a_med10_name_CHILDQ	atorvastatin	CHEBI:39548
+eb_b032a_med1_name_CHILDQ	atorvastatin calcium	CHEBI:50686
+eb_b033a_med2_name_CHILDQ	atorvastatin calcium	CHEBI:50686
+eb_b034a_med3_name_CHILDQ	atorvastatin calcium	CHEBI:50686
+eb_b035a_med4_name_CHILDQ	atorvastatin calcium	CHEBI:50686
+eb_b036a_med5_name_CHILDQ	atorvastatin calcium	CHEBI:50686
+eb_b037a_med6_name_CHILDQ	atorvastatin calcium	CHEBI:50686
+eb_b038a_med7_name_CHILDQ	atorvastatin calcium	CHEBI:50686
+eb_b039a_med8_name_CHILDQ	atorvastatin calcium	CHEBI:50686
+eb_b032a_med1_name_CHILDQ	avapro	CHEBI:5959
+eb_b032a_med1_name_CHILDQ	azathioprine	CHEBI:2948
+eb_b033a_med2_name_CHILDQ	azathioprine	CHEBI:2948
+eb_b032a_med1_name_CHILDQ	azelastine	CHEBI:2950
+eb_b033a_med2_name_CHILDQ	azelastine	CHEBI:2950
+eb_b034a_med3_name_CHILDQ	azelastine	CHEBI:2950
+eb_b035a_med4_name_CHILDQ	azelastine	CHEBI:2950
+eb_b036a_med5_name_CHILDQ	azelastine	CHEBI:2950
+eb_b037a_med6_name_CHILDQ	azelastine	CHEBI:2950
+eb_b038a_med7_name_CHILDQ	azelastine	CHEBI:2950
+eb_b040a_med9_name_CHILDQ	azelastine	CHEBI:2950
+eb_b034a_med3_name_CHILDQ	azelastine hcl	CHEBI:2951
+eb_b035a_med4_name_CHILDQ	azelastine hcl	CHEBI:2951
+eb_b036a_med5_name_CHILDQ	azelastine hcl	CHEBI:2951
+eb_b037a_med6_name_CHILDQ	azelastine hcl	CHEBI:2951
+eb_b033a_med2_name_CHILDQ	azithromycin	CHEBI:2955
+eb_b036a_med5_name_CHILDQ	azopt	CHEBI:3176
+eb_b037a_med6_name_CHILDQ	azythromycin	CHEBI:176304
+eb_b032a_med1_name_CHILDQ	b vitamin	CHEBI:75769
+eb_b032a_med1_name_CHILDQ	baclofen	CHEBI:2972
+eb_b033a_med2_name_CHILDQ	baclofen	CHEBI:2972
+eb_b035a_med4_name_CHILDQ	baclofen	CHEBI:2972
+eb_b036a_med5_name_CHILDQ	baclofen	CHEBI:2972
+eb_b039a_med8_name_CHILDQ	baclofen	CHEBI:2972
+eb_b041a_med10_name_CHILDQ	baclofen	CHEBI:2972
+eb_b033a_med2_name_CHILDQ	beclometasone	CHEBI:3001
+eb_b032a_med1_name_CHILDQ	belviq	CHEBI:66852
+eb_b032a_med1_name_CHILDQ	benazepril	CHEBI:3011
+eb_b033a_med2_name_CHILDQ	benazepril	CHEBI:3011
+eb_b034a_med3_name_CHILDQ	benazepril	CHEBI:3011
+eb_b035a_med4_name_CHILDQ	benazepril	CHEBI:3011
+eb_b036a_med5_name_CHILDQ	benazepril	CHEBI:3011
+eb_b037a_med6_name_CHILDQ	benazepril	CHEBI:3011
+eb_b040a_med9_name_CHILDQ	benazepril	CHEBI:3011
+eb_b037a_med6_name_CHILDQ	benazepril hcl	CHEBI:3012
+eb_b034a_med3_name_CHILDQ	benzalkonium	CHEBI:188978
+eb_b034a_med3_name_CHILDQ	benzonatate	CHEBI:3032
+eb_b038a_med7_name_CHILDQ	benzonatate	CHEBI:3032
+eb_b035a_med4_name_CHILDQ	benzoyl	CHEBI:22733
+eb_b035a_med4_name_CHILDQ	benzoyl peroxide	CHEBI:82405
+eb_b035a_med4_name_CHILDQ	bepreve	CHEBI:31281
+eb_b032a_med1_name_CHILDQ	besylate	CHEBI:64457
+eb_b033a_med2_name_CHILDQ	besylate	CHEBI:64457
+eb_b034a_med3_name_CHILDQ	besylate	CHEBI:64457
+eb_b035a_med4_name_CHILDQ	besylate	CHEBI:64457
+eb_b036a_med5_name_CHILDQ	besylate	CHEBI:64457
+eb_b037a_med6_name_CHILDQ	besylate	CHEBI:64457
+eb_b039a_med8_name_CHILDQ	besylate	CHEBI:64457
+eb_b034a_med3_name_CHILDQ	beta	CHEBI:10545
+eb_b033a_med2_name_CHILDQ	betamethasone	CHEBI:3077
+eb_b033a_med2_name_CHILDQ	betamethasone dipropionate	CHEBI:31276
+eb_b036a_med5_name_CHILDQ	bicarbonate	CHEBI:17544
+eb_b032a_med1_name_CHILDQ	biotin	CHEBI:15956
+eb_b033a_med2_name_CHILDQ	biotin	CHEBI:15956
+eb_b034a_med3_name_CHILDQ	biotin	CHEBI:15956
+eb_b035a_med4_name_CHILDQ	biotin	CHEBI:15956
+eb_b036a_med5_name_CHILDQ	biotin	CHEBI:15956
+eb_b037a_med6_name_CHILDQ	biotin	CHEBI:15956
+eb_b038a_med7_name_CHILDQ	biotin	CHEBI:15956
+eb_b039a_med8_name_CHILDQ	biotin	CHEBI:15956
+eb_b040a_med9_name_CHILDQ	biotin	CHEBI:15956
+eb_b041a_med10_name_CHILDQ	biotin	CHEBI:15956
+eb_b032a_med1_name_CHILDQ	bisoprolol	CHEBI:3127
+eb_b033a_med2_name_CHILDQ	bisoprolol	CHEBI:3127
+eb_b035a_med4_name_CHILDQ	bisoprolol	CHEBI:3127
+eb_b033a_med2_name_CHILDQ	bisoprolol fumarate	CHEBI:3128
+eb_b032a_med1_name_CHILDQ	breo ellipta	CHEBI:75043
+eb_b035a_med4_name_CHILDQ	breo ellipta	CHEBI:75043
+eb_b032a_med1_name_CHILDQ	brilinta	CHEBI:68558
+eb_b037a_med6_name_CHILDQ	brilinta	CHEBI:68558
+eb_b033a_med2_name_CHILDQ	brimonidine	CHEBI:3175
+eb_b036a_med5_name_CHILDQ	brimonidine	CHEBI:3175
+eb_b036a_med5_name_CHILDQ	bromide	CHEBI:15858
+eb_b039a_med8_name_CHILDQ	bromide	CHEBI:15858
+eb_b032a_med1_name_CHILDQ	bromocriptine	CHEBI:3181
+eb_b032a_med1_name_CHILDQ	budesonide	CHEBI:3207
+eb_b035a_med4_name_CHILDQ	budesonide	CHEBI:3207
+eb_b033a_med2_name_CHILDQ	bumetanide	CHEBI:3213
+eb_b035a_med4_name_CHILDQ	bumetanide	CHEBI:3213
+eb_b032a_med1_name_CHILDQ	bupropion	CHEBI:3219
+eb_b033a_med2_name_CHILDQ	bupropion	CHEBI:3219
+eb_b034a_med3_name_CHILDQ	bupropion	CHEBI:3219
+eb_b035a_med4_name_CHILDQ	bupropion	CHEBI:3219
+eb_b036a_med5_name_CHILDQ	bupropion	CHEBI:3219
+eb_b037a_med6_name_CHILDQ	bupropion	CHEBI:3219
+eb_b038a_med7_name_CHILDQ	bupropion	CHEBI:3219
+eb_b039a_med8_name_CHILDQ	bupropion	CHEBI:3219
+eb_b033a_med2_name_CHILDQ	buspar	CHEBI:3224
+eb_b034a_med3_name_CHILDQ	buspar	CHEBI:3224
+eb_b032a_med1_name_CHILDQ	buspirone	CHEBI:3223
+eb_b033a_med2_name_CHILDQ	buspirone	CHEBI:3223
+eb_b035a_med4_name_CHILDQ	buspirone	CHEBI:3223
+eb_b036a_med5_name_CHILDQ	buspirone	CHEBI:3223
+eb_b041a_med10_name_CHILDQ	buspirone	CHEBI:3223
+eb_b032a_med1_name_CHILDQ	cabergoline	CHEBI:3286
+eb_b034a_med3_name_CHILDQ	cabergoline	CHEBI:3286
+eb_b033a_med2_name_CHILDQ	caffeine	CHEBI:27732
+eb_b036a_med5_name_CHILDQ	calciferol	CHEBI:28934
+eb_b032a_med1_name_CHILDQ	calcitonin	CHEBI:3306
+eb_b037a_med6_name_CHILDQ	calcitonin	CHEBI:3306
+eb_b032a_med1_name_CHILDQ	calcitriol	CHEBI:17823
+eb_b032a_med1_name_CHILDQ	calcium	CHEBI:22984
+eb_b033a_med2_name_CHILDQ	calcium	CHEBI:22984
+eb_b034a_med3_name_CHILDQ	calcium	CHEBI:22984
+eb_b035a_med4_name_CHILDQ	calcium	CHEBI:22984
+eb_b036a_med5_name_CHILDQ	calcium	CHEBI:22984
+eb_b037a_med6_name_CHILDQ	calcium	CHEBI:22984
+eb_b038a_med7_name_CHILDQ	calcium	CHEBI:22984
+eb_b039a_med8_name_CHILDQ	calcium	CHEBI:22984
+eb_b041a_med10_name_CHILDQ	calcium	CHEBI:22984
+eb_b034a_med3_name_CHILDQ	calcium carbonate	CHEBI:3311
+eb_b036a_med5_name_CHILDQ	calcium carbonate	CHEBI:3311
+eb_b035a_med4_name_CHILDQ	calcium citrate	CHEBI:190513
+eb_b035a_med4_name_CHILDQ	canagliflozin	CHEBI:73274
+eb_b035a_med4_name_CHILDQ	canagliflozin	CHEBI:73272
+eb_b033a_med2_name_CHILDQ	canasa	CHEBI:6775
+eb_b033a_med2_name_CHILDQ	carbamazepine	CHEBI:3387
+eb_b033a_med2_name_CHILDQ	carbidopa	CHEBI:3395
+eb_b033a_med2_name_CHILDQ	carbidopa-levodopa	CHEBI:3396
+eb_b032a_med1_name_CHILDQ	carboxymethylcellulose	CHEBI:85146
+eb_b038a_med7_name_CHILDQ	carboxymethylcellulose	CHEBI:85146
+eb_b034a_med3_name_CHILDQ	carfilzomib	CHEBI:65347
+eb_b032a_med1_name_CHILDQ	carisoprodol	CHEBI:3419
+eb_b039a_med8_name_CHILDQ	carnitine	CHEBI:17126
+eb_b039a_med8_name_CHILDQ	carnitine	CHEBI:3424
+eb_b032a_med1_name_CHILDQ	carvedilol	CHEBI:3441
+eb_b033a_med2_name_CHILDQ	carvedilol	CHEBI:3441
+eb_b034a_med3_name_CHILDQ	carvedilol	CHEBI:3441
+eb_b035a_med4_name_CHILDQ	carvedilol	CHEBI:3441
+eb_b037a_med6_name_CHILDQ	carvedilol	CHEBI:3441
+eb_b034a_med3_name_CHILDQ	cefuroxime	CHEBI:3515
+eb_b032a_med1_name_CHILDQ	celebrex	CHEBI:41423
+eb_b033a_med2_name_CHILDQ	celebrex	CHEBI:41423
+eb_b034a_med3_name_CHILDQ	celebrex	CHEBI:41423
+eb_b035a_med4_name_CHILDQ	celebrex	CHEBI:41423
+eb_b036a_med5_name_CHILDQ	celebrex	CHEBI:41423
+eb_b040a_med9_name_CHILDQ	celebrex	CHEBI:41423
+eb_b032a_med1_name_CHILDQ	celecoxib	CHEBI:41423
+eb_b033a_med2_name_CHILDQ	celecoxib	CHEBI:41423
+eb_b036a_med5_name_CHILDQ	celecoxib	CHEBI:41423
+eb_b038a_med7_name_CHILDQ	celecoxib	CHEBI:41423
+eb_b039a_med8_name_CHILDQ	celecoxib	CHEBI:41423
+eb_b032a_med1_name_CHILDQ	celexa	CHEBI:3724
+eb_b033a_med2_name_CHILDQ	celexa	CHEBI:3724
+eb_b034a_med3_name_CHILDQ	celexa	CHEBI:3724
+eb_b035a_med4_name_CHILDQ	celexa	CHEBI:3724
+eb_b036a_med5_name_CHILDQ	celexa	CHEBI:3724
+eb_b040a_med9_name_CHILDQ	celexa	CHEBI:3724
+eb_b033a_med2_name_CHILDQ	cellcept	CHEBI:8764
+eb_b034a_med3_name_CHILDQ	cellcept	CHEBI:8764
+eb_b032a_med1_name_CHILDQ	cephalexin	CHEBI:3534
+eb_b041a_med10_name_CHILDQ	cephalexin	CHEBI:3534
+eb_b032a_med1_name_CHILDQ	cetirizine	CHEBI:3561
+eb_b033a_med2_name_CHILDQ	cetirizine	CHEBI:3561
+eb_b034a_med3_name_CHILDQ	cetirizine	CHEBI:3561
+eb_b035a_med4_name_CHILDQ	cetirizine	CHEBI:3561
+eb_b036a_med5_name_CHILDQ	cetirizine	CHEBI:3561
+eb_b037a_med6_name_CHILDQ	cetirizine	CHEBI:3561
+eb_b038a_med7_name_CHILDQ	cetirizine	CHEBI:3561
+eb_b040a_med9_name_CHILDQ	cetirizine	CHEBI:3561
+eb_b032a_med1_name_CHILDQ	cetirizine hydrochloride	CHEBI:3562
+eb_b033a_med2_name_CHILDQ	cetirizine hydrochloride	CHEBI:3562
+eb_b037a_med6_name_CHILDQ	cetirizine hydrochloride	CHEBI:3562
+eb_b033a_med2_name_CHILDQ	cevimeline	CHEBI:3568
+eb_b034a_med3_name_CHILDQ	chlorpheniramine	CHEBI:52010
+eb_b037a_med6_name_CHILDQ	chlorpheniramine	CHEBI:52010
+eb_b038a_med7_name_CHILDQ	chlorpheniramine	CHEBI:52010
+eb_b038a_med7_name_CHILDQ	chlorpheniramine maleate	CHEBI:3645
+eb_b033a_med2_name_CHILDQ	chlorthalidone	CHEBI:3654
+eb_b035a_med4_name_CHILDQ	chlorthalidone	CHEBI:3654
+eb_b037a_med6_name_CHILDQ	chlorthalidone	CHEBI:3654
+eb_b039a_med8_name_CHILDQ	chlorthalidone	CHEBI:3654
+eb_b036a_med5_name_CHILDQ	cholecalciferol	CHEBI:28940
+eb_b032a_med1_name_CHILDQ	cholesterol	CHEBI:16113
+eb_b032a_med1_name_CHILDQ	chondroitin	CHEBI:16137
+eb_b035a_med4_name_CHILDQ	chondroitin	CHEBI:16137
+eb_b036a_med5_name_CHILDQ	chondroitin	CHEBI:16137
+eb_b037a_med6_name_CHILDQ	chondroitin	CHEBI:16137
+eb_b038a_med7_name_CHILDQ	chondroitin	CHEBI:16137
+eb_b037a_med6_name_CHILDQ	chondroitin sulfate	CHEBI:37397
+eb_b032a_med1_name_CHILDQ	cialis	CHEBI:71940
+eb_b033a_med2_name_CHILDQ	cialis	CHEBI:71940
+eb_b034a_med3_name_CHILDQ	cialis	CHEBI:71940
+eb_b037a_med6_name_CHILDQ	cialis	CHEBI:71940
+eb_b040a_med9_name_CHILDQ	cialis	CHEBI:71940
+eb_b035a_med4_name_CHILDQ	cilostazol	CHEBI:31401
+eb_b032a_med1_name_CHILDQ	citalopram	CHEBI:3723
+eb_b033a_med2_name_CHILDQ	citalopram	CHEBI:3723
+eb_b034a_med3_name_CHILDQ	citalopram	CHEBI:3723
+eb_b035a_med4_name_CHILDQ	citalopram	CHEBI:3723
+eb_b036a_med5_name_CHILDQ	citalopram	CHEBI:3723
+eb_b037a_med6_name_CHILDQ	citalopram	CHEBI:3723
+eb_b038a_med7_name_CHILDQ	citalopram	CHEBI:3723
+eb_b039a_med8_name_CHILDQ	citalopram	CHEBI:3723
+eb_b033a_med2_name_CHILDQ	citalopram hydrobromide	CHEBI:3724
+eb_b034a_med3_name_CHILDQ	citalopram hydrobromide	CHEBI:3724
+eb_b036a_med5_name_CHILDQ	citalopram hydrobromide	CHEBI:3724
+eb_b032a_med1_name_CHILDQ	claritin	CHEBI:6538
+eb_b033a_med2_name_CHILDQ	claritin	CHEBI:6538
+eb_b034a_med3_name_CHILDQ	claritin	CHEBI:6538
+eb_b035a_med4_name_CHILDQ	claritin	CHEBI:6538
+eb_b036a_med5_name_CHILDQ	claritin	CHEBI:6538
+eb_b037a_med6_name_CHILDQ	claritin	CHEBI:6538
+eb_b040a_med9_name_CHILDQ	claritin	CHEBI:6538
+eb_b041a_med10_name_CHILDQ	claritin	CHEBI:6538
+eb_b032a_med1_name_CHILDQ	clindamycin	CHEBI:3745
+eb_b035a_med4_name_CHILDQ	clindamycin	CHEBI:3745
+eb_b036a_med5_name_CHILDQ	clindamycin	CHEBI:3745
+eb_b037a_med6_name_CHILDQ	clindamycin	CHEBI:3745
+eb_b036a_med5_name_CHILDQ	clindamycin phosphate	CHEBI:3746
+eb_b032a_med1_name_CHILDQ	clobetasol	CHEBI:205919
+eb_b033a_med2_name_CHILDQ	clobetasol	CHEBI:205919
+eb_b035a_med4_name_CHILDQ	clobetasol	CHEBI:205919
+eb_b036a_med5_name_CHILDQ	clobetasol	CHEBI:205919
+eb_b032a_med1_name_CHILDQ	clobetasol propionate	CHEBI:31414
+eb_b033a_med2_name_CHILDQ	clobetasol propionate	CHEBI:31414
+eb_b035a_med4_name_CHILDQ	clobetasol propionate	CHEBI:31414
+eb_b036a_med5_name_CHILDQ	clobetasol propionate	CHEBI:31414
+eb_b032a_med1_name_CHILDQ	clonazepam	CHEBI:3756
+eb_b033a_med2_name_CHILDQ	clonazepam	CHEBI:3756
+eb_b034a_med3_name_CHILDQ	clonazepam	CHEBI:3756
+eb_b035a_med4_name_CHILDQ	clonazepam	CHEBI:3756
+eb_b036a_med5_name_CHILDQ	clonazepam	CHEBI:3756
+eb_b037a_med6_name_CHILDQ	clonazepam	CHEBI:3756
+eb_b038a_med7_name_CHILDQ	clonazepam	CHEBI:3756
+eb_b039a_med8_name_CHILDQ	clonazepam	CHEBI:3756
+eb_b033a_med2_name_CHILDQ	clonidine	CHEBI:46631
+eb_b035a_med4_name_CHILDQ	clonidine	CHEBI:46631
+eb_b036a_med5_name_CHILDQ	clonidine	CHEBI:46631
+eb_b037a_med6_name_CHILDQ	clonidine	CHEBI:46631
+eb_b032a_med1_name_CHILDQ	clopidogrel	CHEBI:37941
+eb_b033a_med2_name_CHILDQ	clopidogrel	CHEBI:37941
+eb_b034a_med3_name_CHILDQ	clopidogrel	CHEBI:37941
+eb_b035a_med4_name_CHILDQ	clopidogrel	CHEBI:37941
+eb_b036a_med5_name_CHILDQ	clopidogrel	CHEBI:37941
+eb_b037a_med6_name_CHILDQ	clopidogrel	CHEBI:37941
+eb_b036a_med5_name_CHILDQ	clopidogrel bisulfate	CHEBI:3759
+eb_b033a_med2_name_CHILDQ	clotrimazole	CHEBI:3764
+eb_b038a_med7_name_CHILDQ	clotrimazole	CHEBI:3764
+eb_b032a_med1_name_CHILDQ	codeine	CHEBI:16714
+eb_b032a_med1_name_CHILDQ	codeine	CHEBI:57871
+eb_b038a_med7_name_CHILDQ	codeine	CHEBI:16714
+eb_b038a_med7_name_CHILDQ	codeine	CHEBI:57871
+eb_b033a_med2_name_CHILDQ	colchicine	CHEBI:23359
+eb_b034a_med3_name_CHILDQ	colchicine	CHEBI:23359
+eb_b039a_med8_name_CHILDQ	colchicine	CHEBI:23359
+eb_b035a_med4_name_CHILDQ	colestipol	CHEBI:3814
+eb_b035a_med4_name_CHILDQ	colistimethate	CHEBI:59662
+eb_b035a_med4_name_CHILDQ	colistimethate	CHEBI:34650
+eb_b032a_med1_name_CHILDQ	concerta	CHEBI:31836
+eb_b033a_med2_name_CHILDQ	concerta	CHEBI:31836
+eb_b034a_med3_name_CHILDQ	concerta	CHEBI:31836
+eb_b038a_med7_name_CHILDQ	concerta	CHEBI:31836
+eb_b034a_med3_name_CHILDQ	coq10	CHEBI:46245
+eb_b035a_med4_name_CHILDQ	coq10	CHEBI:46245
+eb_b038a_med7_name_CHILDQ	coq10	CHEBI:46245
+eb_b033a_med2_name_CHILDQ	coumadin	CHEBI:10034
+eb_b035a_med4_name_CHILDQ	coumadin	CHEBI:10034
+eb_b036a_med5_name_CHILDQ	coumadin	CHEBI:10034
+eb_b034a_med3_name_CHILDQ	creatinine	CHEBI:16737
+eb_b032a_med1_name_CHILDQ	crestor	CHEBI:77249
+eb_b033a_med2_name_CHILDQ	crestor	CHEBI:77249
+eb_b034a_med3_name_CHILDQ	crestor	CHEBI:77249
+eb_b035a_med4_name_CHILDQ	crestor	CHEBI:77249
+eb_b036a_med5_name_CHILDQ	crestor	CHEBI:77249
+eb_b037a_med6_name_CHILDQ	crestor	CHEBI:77249
+eb_b038a_med7_name_CHILDQ	crestor	CHEBI:77249
+eb_b039a_med8_name_CHILDQ	crestor	CHEBI:77249
+eb_b040a_med9_name_CHILDQ	crestor	CHEBI:77249
+eb_b033a_med2_name_CHILDQ	curcumin	CHEBI:3962
+eb_b035a_med4_name_CHILDQ	curcumin	CHEBI:3962
+eb_b039a_med8_name_CHILDQ	curcumin	CHEBI:3962
+eb_b034a_med3_name_CHILDQ	cyanocobalamin	CHEBI:17439
+eb_b035a_med4_name_CHILDQ	cyanocobalamin	CHEBI:17439
+eb_b036a_med5_name_CHILDQ	cyanocobalamin	CHEBI:17439
+eb_b041a_med10_name_CHILDQ	cyanocobalamin	CHEBI:17439
+eb_b032a_med1_name_CHILDQ	cyclen	CHEBI:37391
+eb_b033a_med2_name_CHILDQ	cyclobenzaprine	CHEBI:3996
+eb_b034a_med3_name_CHILDQ	cyclobenzaprine	CHEBI:3996
+eb_b035a_med4_name_CHILDQ	cyclobenzaprine	CHEBI:3996
+eb_b036a_med5_name_CHILDQ	cyclobenzaprine	CHEBI:3996
+eb_b037a_med6_name_CHILDQ	cyclobenzaprine	CHEBI:3996
+eb_b038a_med7_name_CHILDQ	cyclobenzaprine	CHEBI:3996
+eb_b041a_med10_name_CHILDQ	cyclobenzaprine	CHEBI:3996
+eb_b039a_med8_name_CHILDQ	cyclosporine	CHEBI:4031
+eb_b032a_med1_name_CHILDQ	cymbalta	CHEBI:31526
+eb_b033a_med2_name_CHILDQ	cymbalta	CHEBI:31526
+eb_b034a_med3_name_CHILDQ	cymbalta	CHEBI:31526
+eb_b035a_med4_name_CHILDQ	cymbalta	CHEBI:31526
+eb_b036a_med5_name_CHILDQ	cymbalta	CHEBI:31526
+eb_b037a_med6_name_CHILDQ	cymbalta	CHEBI:31526
+eb_b038a_med7_name_CHILDQ	cysteine	CHEBI:15356
+eb_b033a_med2_name_CHILDQ	cytomel	CHEBI:6484
+eb_b034a_med3_name_CHILDQ	cytomel	CHEBI:6484
+eb_b034a_med3_name_CHILDQ	ddavp	CHEBI:4450
+eb_b032a_med1_name_CHILDQ	decongestant	CHEBI:77715
+eb_b035a_med4_name_CHILDQ	dehydroepiandrosterone	CHEBI:28689
+eb_b032a_med1_name_CHILDQ	depo-provera	CHEBI:6716
+eb_b032a_med1_name_CHILDQ	descovy	CHEBI:133007
+eb_b033a_med2_name_CHILDQ	desloratadine	CHEBI:291342
+eb_b032a_med1_name_CHILDQ	desmopressin	CHEBI:4450
+eb_b032a_med1_name_CHILDQ	desonide	CHEBI:204734
+eb_b033a_med2_name_CHILDQ	dexamethasone	CHEBI:41879
+eb_b032a_med1_name_CHILDQ	dexilant	CHEBI:135931
+eb_b033a_med2_name_CHILDQ	dexilant	CHEBI:135931
+eb_b035a_med4_name_CHILDQ	dexilant	CHEBI:135931
+eb_b036a_med5_name_CHILDQ	dexilant	CHEBI:135931
+eb_b037a_med6_name_CHILDQ	dexilant	CHEBI:135931
+eb_b038a_med7_name_CHILDQ	dexilant	CHEBI:135931
+eb_b041a_med10_name_CHILDQ	dexilant	CHEBI:135931
+eb_b033a_med2_name_CHILDQ	dexmethylphenidate	CHEBI:51860
+eb_b032a_med1_name_CHILDQ	diazepam	CHEBI:49575
+eb_b033a_med2_name_CHILDQ	diazepam	CHEBI:49575
+eb_b034a_med3_name_CHILDQ	diazepam	CHEBI:49575
+eb_b036a_med5_name_CHILDQ	diazepam	CHEBI:49575
+eb_b032a_med1_name_CHILDQ	diclofenac	CHEBI:47381
+eb_b033a_med2_name_CHILDQ	diclofenac	CHEBI:47381
+eb_b034a_med3_name_CHILDQ	diclofenac	CHEBI:47381
+eb_b036a_med5_name_CHILDQ	diclofenac	CHEBI:47381
+eb_b040a_med9_name_CHILDQ	diclofenac	CHEBI:47381
+eb_b032a_med1_name_CHILDQ	diclofenac sodium	CHEBI:4509
+eb_b034a_med3_name_CHILDQ	diclofenac sodium	CHEBI:4509
+eb_b040a_med9_name_CHILDQ	diclofenac sodium	CHEBI:4509
+eb_b032a_med1_name_CHILDQ	dicyclomine	CHEBI:4514
+eb_b034a_med3_name_CHILDQ	dicyclomine	CHEBI:4514
+eb_b036a_med5_name_CHILDQ	dicyclomine	CHEBI:4514
+eb_b039a_med8_name_CHILDQ	dicyclomine	CHEBI:4514
+eb_b036a_med5_name_CHILDQ	diflucan	CHEBI:46081
+eb_b032a_med1_name_CHILDQ	digoxin	CHEBI:4551
+eb_b034a_med3_name_CHILDQ	digoxin	CHEBI:4551
+eb_b037a_med6_name_CHILDQ	digoxin	CHEBI:4551
+eb_b032a_med1_name_CHILDQ	dilantin	CHEBI:8107
+eb_b032a_med1_name_CHILDQ	diltiazem	CHEBI:101278
+eb_b033a_med2_name_CHILDQ	diltiazem	CHEBI:101278
+eb_b034a_med3_name_CHILDQ	diltiazem	CHEBI:101278
+eb_b035a_med4_name_CHILDQ	diltiazem	CHEBI:101278
+eb_b036a_med5_name_CHILDQ	diltiazem	CHEBI:101278
+eb_b037a_med6_name_CHILDQ	diltiazem	CHEBI:101278
+eb_b038a_med7_name_CHILDQ	diltiazem	CHEBI:101278
+eb_b039a_med8_name_CHILDQ	diltiazem	CHEBI:101278
+eb_b038a_med7_name_CHILDQ	diltiazem hydrochloride	CHEBI:645509
+eb_b032a_med1_name_CHILDQ	diovan	CHEBI:9927
+eb_b033a_med2_name_CHILDQ	diovan	CHEBI:9927
+eb_b034a_med3_name_CHILDQ	diovan	CHEBI:9927
+eb_b035a_med4_name_CHILDQ	diovan	CHEBI:9927
+eb_b032a_med1_name_CHILDQ	diphenhydramine	CHEBI:4636
+eb_b035a_med4_name_CHILDQ	diphenhydramine	CHEBI:4636
+eb_b036a_med5_name_CHILDQ	diphenhydramine	CHEBI:4636
+eb_b037a_med6_name_CHILDQ	diphenhydramine	CHEBI:4636
+eb_b035a_med4_name_CHILDQ	diphenhydramine hcl	CHEBI:4637
+eb_b036a_med5_name_CHILDQ	diphenhydramine hcl	CHEBI:4637
+eb_b035a_med4_name_CHILDQ	disulfiram	CHEBI:4659
+eb_b032a_med1_name_CHILDQ	docusate	CHEBI:4674
+eb_b033a_med2_name_CHILDQ	docusate	CHEBI:4674
+eb_b036a_med5_name_CHILDQ	docusate	CHEBI:4674
+eb_b037a_med6_name_CHILDQ	docusate	CHEBI:4674
+eb_b038a_med7_name_CHILDQ	docusate	CHEBI:4674
+eb_b041a_med10_name_CHILDQ	docusate	CHEBI:4674
+eb_b032a_med1_name_CHILDQ	docusate sodium	CHEBI:4674
+eb_b033a_med2_name_CHILDQ	docusate sodium	CHEBI:4674
+eb_b036a_med5_name_CHILDQ	docusate sodium	CHEBI:4674
+eb_b037a_med6_name_CHILDQ	docusate sodium	CHEBI:4674
+eb_b038a_med7_name_CHILDQ	docusate sodium	CHEBI:4674
+eb_b034a_med3_name_CHILDQ	donepezil	CHEBI:53289
+eb_b032a_med1_name_CHILDQ	dopa	CHEBI:49168
+eb_b032a_med1_name_CHILDQ	dorzolamide	CHEBI:4702
+eb_b034a_med3_name_CHILDQ	dorzolamide	CHEBI:4702
+eb_b032a_med1_name_CHILDQ	doxazosin	CHEBI:4708
+eb_b034a_med3_name_CHILDQ	doxazosin	CHEBI:4708
+eb_b035a_med4_name_CHILDQ	doxazosin	CHEBI:4708
+eb_b036a_med5_name_CHILDQ	doxazosin	CHEBI:4708
+eb_b032a_med1_name_CHILDQ	doxepin	CHEBI:4710
+eb_b035a_med4_name_CHILDQ	doxepin	CHEBI:4710
+eb_b037a_med6_name_CHILDQ	doxepin	CHEBI:4710
+eb_b032a_med1_name_CHILDQ	doxycycline	CHEBI:50845
+eb_b033a_med2_name_CHILDQ	doxycycline	CHEBI:50845
+eb_b035a_med4_name_CHILDQ	doxycycline	CHEBI:50845
+eb_b040a_med9_name_CHILDQ	doxycycline	CHEBI:50845
+eb_b032a_med1_name_CHILDQ	doxycycline hyclate	CHEBI:34730
+eb_b035a_med4_name_CHILDQ	drospirenone	CHEBI:50838
+eb_b038a_med7_name_CHILDQ	drug	CHEBI:23888
+eb_b032a_med1_name_CHILDQ	duloxetine	CHEBI:36796
+eb_b033a_med2_name_CHILDQ	duloxetine	CHEBI:36796
+eb_b034a_med3_name_CHILDQ	duloxetine	CHEBI:36796
+eb_b035a_med4_name_CHILDQ	duloxetine	CHEBI:36796
+eb_b036a_med5_name_CHILDQ	duloxetine	CHEBI:36796
+eb_b037a_med6_name_CHILDQ	duloxetine	CHEBI:36796
+eb_b038a_med7_name_CHILDQ	duloxetine	CHEBI:36796
+eb_b039a_med8_name_CHILDQ	duragesic	CHEBI:119915
+eb_b032a_med1_name_CHILDQ	dutasteride	CHEBI:521033
+eb_b034a_med3_name_CHILDQ	dutasteride	CHEBI:521033
+eb_b035a_med4_name_CHILDQ	dutasteride	CHEBI:521033
+eb_b036a_med5_name_CHILDQ	dutasteride	CHEBI:521033
+eb_b032a_med1_name_CHILDQ	effient	CHEBI:87697
+eb_b033a_med2_name_CHILDQ	effient	CHEBI:87697
+eb_b034a_med3_name_CHILDQ	effient	CHEBI:87697
+eb_b039a_med8_name_CHILDQ	effient	CHEBI:87697
+eb_b040a_med9_name_CHILDQ	effient	CHEBI:87697
+eb_b038a_med7_name_CHILDQ	elavil	CHEBI:2667
+eb_b032a_med1_name_CHILDQ	eliquis	CHEBI:72296
+eb_b033a_med2_name_CHILDQ	eliquis	CHEBI:72296
+eb_b034a_med3_name_CHILDQ	eliquis	CHEBI:72296
+eb_b035a_med4_name_CHILDQ	eliquis	CHEBI:72296
+eb_b038a_med7_name_CHILDQ	eliquis	CHEBI:72296
+eb_b032a_med1_name_CHILDQ	enalapril	CHEBI:4784
+eb_b033a_med2_name_CHILDQ	enalapril	CHEBI:4784
+eb_b034a_med3_name_CHILDQ	enalapril	CHEBI:4784
+eb_b035a_med4_name_CHILDQ	enalapril	CHEBI:4784
+eb_b036a_med5_name_CHILDQ	enalapril	CHEBI:4784
+eb_b038a_med7_name_CHILDQ	enalapril	CHEBI:4784
+eb_b033a_med2_name_CHILDQ	enalapril maleate	CHEBI:4785
+eb_b034a_med3_name_CHILDQ	enalapril maleate	CHEBI:4785
+eb_b038a_med7_name_CHILDQ	enalapril maleate	CHEBI:4785
+eb_b037a_med6_name_CHILDQ	epa	CHEBI:28364
+eb_b035a_med4_name_CHILDQ	epipen	CHEBI:28918
+eb_b032a_med1_name_CHILDQ	eprosartan	CHEBI:4814
+eb_b032a_med1_name_CHILDQ	eprosartan mesylate	CHEBI:48409
+eb_b032a_med1_name_CHILDQ	ergocalciferol	CHEBI:28934
+eb_b041a_med10_name_CHILDQ	ergocalciferol	CHEBI:28934
+eb_b032a_med1_name_CHILDQ	escitalopram	CHEBI:36791
+eb_b033a_med2_name_CHILDQ	escitalopram	CHEBI:36791
+eb_b034a_med3_name_CHILDQ	escitalopram	CHEBI:36791
+eb_b035a_med4_name_CHILDQ	escitalopram	CHEBI:36791
+eb_b036a_med5_name_CHILDQ	escitalopram	CHEBI:36791
+eb_b037a_med6_name_CHILDQ	escitalopram	CHEBI:36791
+eb_b032a_med1_name_CHILDQ	esomeprazol	CHEBI:50275
+eb_b032a_med1_name_CHILDQ	esomeprazole	CHEBI:50275
+eb_b033a_med2_name_CHILDQ	esomeprazole	CHEBI:50275
+eb_b034a_med3_name_CHILDQ	esomeprazole	CHEBI:50275
+eb_b035a_med4_name_CHILDQ	esomeprazole	CHEBI:50275
+eb_b032a_med1_name_CHILDQ	esomeprazole magnesium	CHEBI:50309
+eb_b032a_med1_name_CHILDQ	estradiol	CHEBI:23965
+eb_b033a_med2_name_CHILDQ	estradiol	CHEBI:23965
+eb_b034a_med3_name_CHILDQ	estradiol	CHEBI:23965
+eb_b035a_med4_name_CHILDQ	estradiol	CHEBI:23965
+eb_b036a_med5_name_CHILDQ	estradiol	CHEBI:23965
+eb_b037a_med6_name_CHILDQ	estradiol	CHEBI:23965
+eb_b038a_med7_name_CHILDQ	estradiol	CHEBI:23965
+eb_b040a_med9_name_CHILDQ	estradiol	CHEBI:23965
+eb_b033a_med2_name_CHILDQ	estriol	CHEBI:27974
+eb_b035a_med4_name_CHILDQ	estriol	CHEBI:27974
+eb_b032a_med1_name_CHILDQ	estrogen	CHEBI:50114
+eb_b033a_med2_name_CHILDQ	estrogen	CHEBI:50114
+eb_b034a_med3_name_CHILDQ	estrogen	CHEBI:50114
+eb_b035a_med4_name_CHILDQ	estrogen	CHEBI:50114
+eb_b032a_med1_name_CHILDQ	estropipate	CHEBI:4873
+eb_b034a_med3_name_CHILDQ	ethambutol	CHEBI:4877
+eb_b032a_med1_name_CHILDQ	ethinyl estradiol	CHEBI:4903
+eb_b035a_med4_name_CHILDQ	ethinyl estradiol	CHEBI:4903
+eb_b034a_med3_name_CHILDQ	etodolac	CHEBI:4909
+eb_b036a_med5_name_CHILDQ	etodolac	CHEBI:4909
+eb_b032a_med1_name_CHILDQ	evista	CHEBI:50740
+eb_b033a_med2_name_CHILDQ	evista	CHEBI:50740
+eb_b032a_med1_name_CHILDQ	exemestane	CHEBI:4953
+eb_b033a_med2_name_CHILDQ	exemestane	CHEBI:4953
+eb_b036a_med5_name_CHILDQ	exemestane	CHEBI:4953
+eb_b033a_med2_name_CHILDQ	ezetimibe	CHEBI:49040
+eb_b036a_med5_name_CHILDQ	ezetimibe	CHEBI:49040
+eb_b032a_med1_name_CHILDQ	famciclovir	CHEBI:4974
+eb_b032a_med1_name_CHILDQ	famotidine	CHEBI:4975
+eb_b033a_med2_name_CHILDQ	famotidine	CHEBI:4975
+eb_b034a_med3_name_CHILDQ	famotidine	CHEBI:4975
+eb_b035a_med4_name_CHILDQ	famotidine	CHEBI:4975
+eb_b036a_med5_name_CHILDQ	famotidine	CHEBI:4975
+eb_b041a_med10_name_CHILDQ	famotidine	CHEBI:4975
+eb_b032a_med1_name_CHILDQ	fanapt	CHEBI:65173
+eb_b033a_med2_name_CHILDQ	farxiga	CHEBI:85079
+eb_b035a_med4_name_CHILDQ	farxiga	CHEBI:85079
+eb_b036a_med5_name_CHILDQ	farxiga	CHEBI:85079
+eb_b037a_med6_name_CHILDQ	farxiga	CHEBI:85079
+eb_b039a_med8_name_CHILDQ	fatty acids	CHEBI:35366
+eb_b032a_med1_name_CHILDQ	felodipine	CHEBI:585948
+eb_b033a_med2_name_CHILDQ	felodipine	CHEBI:585948
+eb_b032a_med1_name_CHILDQ	femara	CHEBI:6413
+eb_b032a_med1_name_CHILDQ	fenofibrate	CHEBI:5001
+eb_b033a_med2_name_CHILDQ	fenofibrate	CHEBI:5001
+eb_b034a_med3_name_CHILDQ	fenofibrate	CHEBI:5001
+eb_b035a_med4_name_CHILDQ	fenofibrate	CHEBI:5001
+eb_b036a_med5_name_CHILDQ	fenofibrate	CHEBI:5001
+eb_b037a_med6_name_CHILDQ	fenofibrate	CHEBI:5001
+eb_b035a_med4_name_CHILDQ	fenofibric acid	CHEBI:83469
+eb_b035a_med4_name_CHILDQ	ferrous gluconate	CHEBI:31608
+eb_b038a_med7_name_CHILDQ	ferrous sulfate	CHEBI:75832
+eb_b040a_med9_name_CHILDQ	ferrous sulfate	CHEBI:75832
+eb_b035a_med4_name_CHILDQ	fetzima	CHEBI:136040
+eb_b032a_med1_name_CHILDQ	fexofenadine	CHEBI:5050
+eb_b033a_med2_name_CHILDQ	fexofenadine	CHEBI:5050
+eb_b034a_med3_name_CHILDQ	fexofenadine	CHEBI:5050
+eb_b036a_med5_name_CHILDQ	fexofenadine	CHEBI:5050
+eb_b037a_med6_name_CHILDQ	fexofenadine	CHEBI:5050
+eb_b039a_med8_name_CHILDQ	fexofenadine	CHEBI:5050
+eb_b041a_med10_name_CHILDQ	fexofenadine	CHEBI:5050
+eb_b034a_med3_name_CHILDQ	fexofenadine hydrochloride	CHEBI:5051
+eb_b039a_med8_name_CHILDQ	fexofenadine hydrochloride	CHEBI:5051
+eb_b032a_med1_name_CHILDQ	finasteride	CHEBI:5062
+eb_b033a_med2_name_CHILDQ	finasteride	CHEBI:5062
+eb_b034a_med3_name_CHILDQ	finasteride	CHEBI:5062
+eb_b035a_med4_name_CHILDQ	finasteride	CHEBI:5062
+eb_b039a_med8_name_CHILDQ	finasteride	CHEBI:5062
+eb_b032a_med1_name_CHILDQ	flecainide	CHEBI:75984
+eb_b033a_med2_name_CHILDQ	flecainide	CHEBI:75984
+eb_b034a_med3_name_CHILDQ	flecainide	CHEBI:75984
+eb_b032a_med1_name_CHILDQ	flomax	CHEBI:9399
+eb_b033a_med2_name_CHILDQ	flomax	CHEBI:9399
+eb_b035a_med4_name_CHILDQ	flomax	CHEBI:9399
+eb_b036a_med5_name_CHILDQ	flomax	CHEBI:9399
+eb_b037a_med6_name_CHILDQ	flomax	CHEBI:9399
+eb_b039a_med8_name_CHILDQ	flomax	CHEBI:9399
+eb_b033a_med2_name_CHILDQ	florinef	CHEBI:5102
+eb_b039a_med8_name_CHILDQ	fluconazole	CHEBI:46081
+eb_b041a_med10_name_CHILDQ	fluconazole	CHEBI:46081
+eb_b032a_med1_name_CHILDQ	fluocinonide	CHEBI:5109
+eb_b035a_med4_name_CHILDQ	fluocinonide	CHEBI:5109
+eb_b036a_med5_name_CHILDQ	fluocinonide	CHEBI:5109
+eb_b034a_med3_name_CHILDQ	fluorometholone	CHEBI:31625
+eb_b032a_med1_name_CHILDQ	fluoxetine	CHEBI:5118
+eb_b033a_med2_name_CHILDQ	fluoxetine	CHEBI:5118
+eb_b034a_med3_name_CHILDQ	fluoxetine	CHEBI:5118
+eb_b035a_med4_name_CHILDQ	fluoxetine	CHEBI:5118
+eb_b037a_med6_name_CHILDQ	fluoxetine	CHEBI:5118
+eb_b038a_med7_name_CHILDQ	fluoxetine	CHEBI:5118
+eb_b032a_med1_name_CHILDQ	fluoxetine hcl	CHEBI:5119
+eb_b033a_med2_name_CHILDQ	fluoxetine hcl	CHEBI:5119
+eb_b034a_med3_name_CHILDQ	fluoxetine hcl	CHEBI:5119
+eb_b038a_med7_name_CHILDQ	fluoxetine hcl	CHEBI:5119
+eb_b032a_med1_name_CHILDQ	fluticasone	CHEBI:5134
+eb_b033a_med2_name_CHILDQ	fluticasone	CHEBI:5134
+eb_b034a_med3_name_CHILDQ	fluticasone	CHEBI:5134
+eb_b035a_med4_name_CHILDQ	fluticasone	CHEBI:5134
+eb_b036a_med5_name_CHILDQ	fluticasone	CHEBI:5134
+eb_b037a_med6_name_CHILDQ	fluticasone	CHEBI:5134
+eb_b038a_med7_name_CHILDQ	fluticasone	CHEBI:5134
+eb_b039a_med8_name_CHILDQ	fluticasone	CHEBI:5134
+eb_b040a_med9_name_CHILDQ	fluticasone	CHEBI:5134
+eb_b041a_med10_name_CHILDQ	fluticasone	CHEBI:5134
+eb_b032a_med1_name_CHILDQ	fluticasone propionate	CHEBI:31441
+eb_b033a_med2_name_CHILDQ	fluticasone propionate	CHEBI:31441
+eb_b034a_med3_name_CHILDQ	fluticasone propionate	CHEBI:31441
+eb_b035a_med4_name_CHILDQ	fluticasone propionate	CHEBI:31441
+eb_b036a_med5_name_CHILDQ	fluticasone propionate	CHEBI:31441
+eb_b037a_med6_name_CHILDQ	fluticasone propionate	CHEBI:31441
+eb_b038a_med7_name_CHILDQ	fluticasone propionate	CHEBI:31441
+eb_b040a_med9_name_CHILDQ	fluticasone propionate	CHEBI:31441
+eb_b041a_med10_name_CHILDQ	fluticasone propionate	CHEBI:31441
+eb_b032a_med1_name_CHILDQ	folic acid	CHEBI:27470
+eb_b033a_med2_name_CHILDQ	folic acid	CHEBI:27470
+eb_b034a_med3_name_CHILDQ	folic acid	CHEBI:27470
+eb_b035a_med4_name_CHILDQ	folic acid	CHEBI:27470
+eb_b036a_med5_name_CHILDQ	folic acid	CHEBI:27470
+eb_b037a_med6_name_CHILDQ	folic acid	CHEBI:27470
+eb_b033a_med2_name_CHILDQ	fosamax	CHEBI:2566
+eb_b039a_med8_name_CHILDQ	fosamax	CHEBI:2566
+eb_b035a_med4_name_CHILDQ	fosinopril	CHEBI:5163
+eb_b033a_med2_name_CHILDQ	fumarate	CHEBI:29806
+eb_b034a_med3_name_CHILDQ	fumarate	CHEBI:29806
+eb_b039a_med8_name_CHILDQ	fumarate	CHEBI:29806
+eb_b032a_med1_name_CHILDQ	furosemide	CHEBI:47426
+eb_b033a_med2_name_CHILDQ	furosemide	CHEBI:47426
+eb_b034a_med3_name_CHILDQ	furosemide	CHEBI:47426
+eb_b035a_med4_name_CHILDQ	furosemide	CHEBI:47426
+eb_b036a_med5_name_CHILDQ	furosemide	CHEBI:47426
+eb_b037a_med6_name_CHILDQ	furosemide	CHEBI:47426
+eb_b038a_med7_name_CHILDQ	furosemide	CHEBI:47426
+eb_b039a_med8_name_CHILDQ	furosemide	CHEBI:47426
+eb_b040a_med9_name_CHILDQ	furosemide	CHEBI:47426
+eb_b032a_med1_name_CHILDQ	gabapentin	CHEBI:42797
+eb_b033a_med2_name_CHILDQ	gabapentin	CHEBI:42797
+eb_b034a_med3_name_CHILDQ	gabapentin	CHEBI:42797
+eb_b035a_med4_name_CHILDQ	gabapentin	CHEBI:42797
+eb_b036a_med5_name_CHILDQ	gabapentin	CHEBI:42797
+eb_b037a_med6_name_CHILDQ	gabapentin	CHEBI:42797
+eb_b038a_med7_name_CHILDQ	gabapentin	CHEBI:42797
+eb_b039a_med8_name_CHILDQ	gabapentin	CHEBI:42797
+eb_b040a_med9_name_CHILDQ	gabapentin	CHEBI:42797
+eb_b032a_med1_name_CHILDQ	gabapentine	CHEBI:42797
+eb_b032a_med1_name_CHILDQ	gemfibrozil	CHEBI:5296
+eb_b034a_med3_name_CHILDQ	gemfibrozil	CHEBI:5296
+eb_b036a_med5_name_CHILDQ	gemfibrozil	CHEBI:5296
+eb_b033a_med2_name_CHILDQ	genvoya	CHEBI:90922
+eb_b032a_med1_name_CHILDQ	geodon	CHEBI:32314
+eb_b033a_med2_name_CHILDQ	geodon	CHEBI:32314
+eb_b033a_med2_name_CHILDQ	gilenya	CHEBI:63112
+eb_b032a_med1_name_CHILDQ	glimepiride	CHEBI:5383
+eb_b033a_med2_name_CHILDQ	glimepiride	CHEBI:5383
+eb_b034a_med3_name_CHILDQ	glimepiride	CHEBI:5383
+eb_b035a_med4_name_CHILDQ	glimepiride	CHEBI:5383
+eb_b036a_med5_name_CHILDQ	glimepiride	CHEBI:5383
+eb_b038a_med7_name_CHILDQ	glimepiride	CHEBI:5383
+eb_b032a_med1_name_CHILDQ	glipizide	CHEBI:5384
+eb_b033a_med2_name_CHILDQ	glipizide	CHEBI:5384
+eb_b034a_med3_name_CHILDQ	glipizide	CHEBI:5384
+eb_b035a_med4_name_CHILDQ	glipizide	CHEBI:5384
+eb_b036a_med5_name_CHILDQ	glipizide	CHEBI:5384
+eb_b037a_med6_name_CHILDQ	glipizide	CHEBI:5384
+eb_b041a_med10_name_CHILDQ	glipizide	CHEBI:5384
+eb_b032a_med1_name_CHILDQ	gluconate	CHEBI:24265
+eb_b035a_med4_name_CHILDQ	gluconate	CHEBI:24265
+eb_b033a_med2_name_CHILDQ	glucophage	CHEBI:6802
+eb_b032a_med1_name_CHILDQ	glucosamine	CHEBI:5417
+eb_b033a_med2_name_CHILDQ	glucosamine	CHEBI:5417
+eb_b034a_med3_name_CHILDQ	glucosamine	CHEBI:5417
+eb_b035a_med4_name_CHILDQ	glucosamine	CHEBI:5417
+eb_b036a_med5_name_CHILDQ	glucosamine	CHEBI:5417
+eb_b037a_med6_name_CHILDQ	glucosamine	CHEBI:5417
+eb_b038a_med7_name_CHILDQ	glucosamine	CHEBI:5417
+eb_b037a_med6_name_CHILDQ	glutamine	CHEBI:28300
+eb_b032a_med1_name_CHILDQ	glycol	CHEBI:13643
+eb_b032a_med1_name_CHILDQ	guaifenesin	CHEBI:5551
+eb_b033a_med2_name_CHILDQ	guaifenesin	CHEBI:5551
+eb_b036a_med5_name_CHILDQ	guaifenesin	CHEBI:5551
+eb_b039a_med8_name_CHILDQ	guaifenesin	CHEBI:5551
+eb_b036a_med5_name_CHILDQ	guanfacine	CHEBI:5558
+eb_b036a_med5_name_CHILDQ	halcion	CHEBI:9674
+eb_b033a_med2_name_CHILDQ	hippurate	CHEBI:132966
+eb_b033a_med2_name_CHILDQ	horizant	CHEBI:68840
+eb_b032a_med1_name_CHILDQ	human insulin	CHEBI:5931
+eb_b038a_med7_name_CHILDQ	hyaluronic acid	CHEBI:16336
+eb_b033a_med2_name_CHILDQ	hydralazine	CHEBI:5775
+eb_b032a_med1_name_CHILDQ	hydrochlorothiazide	CHEBI:5778
+eb_b033a_med2_name_CHILDQ	hydrochlorothiazide	CHEBI:5778
+eb_b034a_med3_name_CHILDQ	hydrochlorothiazide	CHEBI:5778
+eb_b035a_med4_name_CHILDQ	hydrochlorothiazide	CHEBI:5778
+eb_b036a_med5_name_CHILDQ	hydrochlorothiazide	CHEBI:5778
+eb_b037a_med6_name_CHILDQ	hydrochlorothiazide	CHEBI:5778
+eb_b038a_med7_name_CHILDQ	hydrochlorothiazide	CHEBI:5778
+eb_b039a_med8_name_CHILDQ	hydrochlorothiazide	CHEBI:5778
+eb_b041a_med10_name_CHILDQ	hydrochlorothiazide	CHEBI:5778
+eb_b034a_med3_name_CHILDQ	hydrocodon	CHEBI:5779
+eb_b037a_med6_name_CHILDQ	hydrocodon	CHEBI:5779
+eb_b032a_med1_name_CHILDQ	hydrocodone	CHEBI:5779
+eb_b033a_med2_name_CHILDQ	hydrocodone	CHEBI:5779
+eb_b035a_med4_name_CHILDQ	hydrocodone	CHEBI:5779
+eb_b036a_med5_name_CHILDQ	hydrocodone	CHEBI:5779
+eb_b040a_med9_name_CHILDQ	hydrocodone	CHEBI:5779
+eb_b032a_med1_name_CHILDQ	hydrocortisone	CHEBI:17650
+eb_b035a_med4_name_CHILDQ	hydrocortisone	CHEBI:17650
+eb_b039a_med8_name_CHILDQ	hydrocortisone	CHEBI:17650
+eb_b039a_med8_name_CHILDQ	hydromorphone	CHEBI:5790
+eb_b034a_med3_name_CHILDQ	hydroquinone	CHEBI:17594
+eb_b032a_med1_name_CHILDQ	hydroxychloroquine	CHEBI:5801
+eb_b033a_med2_name_CHILDQ	hydroxychloroquine	CHEBI:5801
+eb_b034a_med3_name_CHILDQ	hydroxychloroquine	CHEBI:5801
+eb_b036a_med5_name_CHILDQ	hydroxychloroquine	CHEBI:5801
+eb_b039a_med8_name_CHILDQ	hydroxychloroquine	CHEBI:5801
+eb_b040a_med9_name_CHILDQ	hydroxychloroquine	CHEBI:5801
+eb_b034a_med3_name_CHILDQ	hydroxycobalamin	CHEBI:27786
+eb_b032a_med1_name_CHILDQ	hydroxyzine	CHEBI:5818
+eb_b039a_med8_name_CHILDQ	hydroxyzine	CHEBI:5818
+eb_b036a_med5_name_CHILDQ	hyoscyamine	CHEBI:17486
+eb_b033a_med2_name_CHILDQ	ibandronate	CHEBI:41060
+eb_b034a_med3_name_CHILDQ	ibandronate	CHEBI:41060
+eb_b037a_med6_name_CHILDQ	ibandronate	CHEBI:41060
+eb_b032a_med1_name_CHILDQ	ibuprofen	CHEBI:5855
+eb_b033a_med2_name_CHILDQ	ibuprofen	CHEBI:5855
+eb_b034a_med3_name_CHILDQ	ibuprofen	CHEBI:5855
+eb_b035a_med4_name_CHILDQ	ibuprofen	CHEBI:5855
+eb_b036a_med5_name_CHILDQ	ibuprofen	CHEBI:5855
+eb_b037a_med6_name_CHILDQ	ibuprofen	CHEBI:5855
+eb_b038a_med7_name_CHILDQ	ibuprofen	CHEBI:5855
+eb_b039a_med8_name_CHILDQ	ibuprofen	CHEBI:5855
+eb_b041a_med10_name_CHILDQ	ibuprofen	CHEBI:5855
+eb_b033a_med2_name_CHILDQ	imdur	CHEBI:6062
+eb_b034a_med3_name_CHILDQ	imdur	CHEBI:6062
+eb_b036a_med5_name_CHILDQ	imdur	CHEBI:6062
+eb_b037a_med6_name_CHILDQ	imdur	CHEBI:6062
+eb_b032a_med1_name_CHILDQ	imitrex	CHEBI:10650
+eb_b033a_med2_name_CHILDQ	imitrex	CHEBI:10650
+eb_b034a_med3_name_CHILDQ	imitrex	CHEBI:10650
+eb_b035a_med4_name_CHILDQ	imitrex	CHEBI:10650
+eb_b037a_med6_name_CHILDQ	imitrex	CHEBI:10650
+eb_b038a_med7_name_CHILDQ	imitrex	CHEBI:10650
+eb_b034a_med3_name_CHILDQ	imodium	CHEBI:6533
+eb_b035a_med4_name_CHILDQ	imodium	CHEBI:6533
+eb_b039a_med8_name_CHILDQ	imodium	CHEBI:6533
+eb_b032a_med1_name_CHILDQ	indapamide	CHEBI:5893
+eb_b033a_med2_name_CHILDQ	indapamide	CHEBI:5893
+eb_b036a_med5_name_CHILDQ	indapamide	CHEBI:5893
+eb_b034a_med3_name_CHILDQ	indomethacin	CHEBI:49662
+eb_b040a_med9_name_CHILDQ	indomethacin	CHEBI:49662
+eb_b032a_med1_name_CHILDQ	insulin	CHEBI:145810
+eb_b033a_med2_name_CHILDQ	insulin	CHEBI:145810
+eb_b034a_med3_name_CHILDQ	insulin	CHEBI:145810
+eb_b036a_med5_name_CHILDQ	insulin	CHEBI:145810
+eb_b037a_med6_name_CHILDQ	insulin	CHEBI:145810
+eb_b038a_med7_name_CHILDQ	insulin	CHEBI:145810
+eb_b039a_med8_name_CHILDQ	insulin	CHEBI:145810
+eb_b040a_med9_name_CHILDQ	insulin	CHEBI:145810
+eb_b041a_med10_name_CHILDQ	insulin	CHEBI:145810
+eb_b035a_med4_name_CHILDQ	invokana	CHEBI:73272
+eb_b036a_med5_name_CHILDQ	invokana	CHEBI:73272
+eb_b037a_med6_name_CHILDQ	invokana	CHEBI:73272
+eb_b034a_med3_name_CHILDQ	iodine	CHEBI:24859
+eb_b032a_med1_name_CHILDQ	ipratropium	CHEBI:5956
+eb_b036a_med5_name_CHILDQ	ipratropium	CHEBI:5956
+eb_b039a_med8_name_CHILDQ	ipratropium	CHEBI:5956
+eb_b036a_med5_name_CHILDQ	ipratropium bromide	CHEBI:46659
+eb_b039a_med8_name_CHILDQ	ipratropium bromide	CHEBI:46659
+eb_b032a_med1_name_CHILDQ	irbesartan	CHEBI:5959
+eb_b033a_med2_name_CHILDQ	irbesartan	CHEBI:5959
+eb_b034a_med3_name_CHILDQ	irbesartan	CHEBI:5959
+eb_b032a_med1_name_CHILDQ	iron	CHEBI:18248
+eb_b033a_med2_name_CHILDQ	iron	CHEBI:18248
+eb_b034a_med3_name_CHILDQ	iron	CHEBI:18248
+eb_b038a_med7_name_CHILDQ	isometheptene	CHEBI:134765
+eb_b033a_med2_name_CHILDQ	isosorbide	CHEBI:6060
+eb_b035a_med4_name_CHILDQ	isosorbide	CHEBI:6060
+eb_b038a_med7_name_CHILDQ	isosorbide	CHEBI:6060
+eb_b040a_med9_name_CHILDQ	isosorbide	CHEBI:6060
+eb_b035a_med4_name_CHILDQ	isosorbide mononitrate	CHEBI:6062
+eb_b040a_med9_name_CHILDQ	isosorbide mononitrate	CHEBI:6062
+eb_b032a_med1_name_CHILDQ	jardiance	CHEBI:82720
+eb_b038a_med7_name_CHILDQ	jardiance	CHEBI:82720
+eb_b035a_med4_name_CHILDQ	jublia	CHEBI:82718
+eb_b037a_med6_name_CHILDQ	kcl	CHEBI:32588
+eb_b032a_med1_name_CHILDQ	keppra	CHEBI:6437
+eb_b038a_med7_name_CHILDQ	ketoconazole	CHEBI:47519
+eb_b039a_med8_name_CHILDQ	ketoconazole	CHEBI:47519
+eb_b034a_med3_name_CHILDQ	klor-con	CHEBI:32588
+eb_b035a_med4_name_CHILDQ	klor-con	CHEBI:32588
+eb_b036a_med5_name_CHILDQ	klor-con	CHEBI:32588
+eb_b039a_med8_name_CHILDQ	l-carnitine	CHEBI:16347
+eb_b037a_med6_name_CHILDQ	l-glutamine	CHEBI:18050
+eb_b033a_med2_name_CHILDQ	l-thyroxine	CHEBI:18332
+eb_b034a_med3_name_CHILDQ	l-thyroxine	CHEBI:18332
+eb_b035a_med4_name_CHILDQ	l-thyroxine	CHEBI:18332
+eb_b032a_med1_name_CHILDQ	labetalol	CHEBI:6343
+eb_b033a_med2_name_CHILDQ	lactate	CHEBI:24996
+eb_b032a_med1_name_CHILDQ	lamictal	CHEBI:6367
+eb_b033a_med2_name_CHILDQ	lamictal	CHEBI:6367
+eb_b034a_med3_name_CHILDQ	lamictal	CHEBI:6367
+eb_b035a_med4_name_CHILDQ	lamictal	CHEBI:6367
+eb_b032a_med1_name_CHILDQ	lamotrigine	CHEBI:6367
+eb_b033a_med2_name_CHILDQ	lamotrigine	CHEBI:6367
+eb_b034a_med3_name_CHILDQ	lamotrigine	CHEBI:6367
+eb_b037a_med6_name_CHILDQ	lamotrigine	CHEBI:6367
+eb_b032a_med1_name_CHILDQ	lansoprazole	CHEBI:6375
+eb_b033a_med2_name_CHILDQ	lansoprazole	CHEBI:6375
+eb_b034a_med3_name_CHILDQ	lansoprazole	CHEBI:6375
+eb_b035a_med4_name_CHILDQ	lansoprazole	CHEBI:6375
+eb_b039a_med8_name_CHILDQ	lansoprazole	CHEBI:6375
+eb_b040a_med9_name_CHILDQ	lansoprazole	CHEBI:6375
+eb_b032a_med1_name_CHILDQ	latanoprost	CHEBI:6384
+eb_b033a_med2_name_CHILDQ	latanoprost	CHEBI:6384
+eb_b034a_med3_name_CHILDQ	latanoprost	CHEBI:6384
+eb_b036a_med5_name_CHILDQ	latanoprost	CHEBI:6384
+eb_b037a_med6_name_CHILDQ	latanoprost	CHEBI:6384
+eb_b039a_med8_name_CHILDQ	latanoprost	CHEBI:6384
+eb_b040a_med9_name_CHILDQ	latanoprost	CHEBI:6384
+eb_b032a_med1_name_CHILDQ	latuda	CHEBI:70732
+eb_b033a_med2_name_CHILDQ	latuda	CHEBI:70732
+eb_b035a_med4_name_CHILDQ	latuda	CHEBI:70732
+eb_b041a_med10_name_CHILDQ	laxative	CHEBI:50503
+eb_b033a_med2_name_CHILDQ	leflunomide	CHEBI:6402
+eb_b035a_med4_name_CHILDQ	leflunomide	CHEBI:6402
+eb_b033a_med2_name_CHILDQ	letrozol	CHEBI:6413
+eb_b032a_med1_name_CHILDQ	letrozole	CHEBI:6413
+eb_b035a_med4_name_CHILDQ	letrozole	CHEBI:6413
+eb_b034a_med3_name_CHILDQ	leucovorin	CHEBI:15640
+eb_b033a_med2_name_CHILDQ	levetiracetam	CHEBI:6437
+eb_b032a_med1_name_CHILDQ	levitra	CHEBI:46295
+eb_b033a_med2_name_CHILDQ	levodopa	CHEBI:15765
+eb_b032a_med1_name_CHILDQ	levofloxacin	CHEBI:63598
+eb_b032a_med1_name_CHILDQ	levonorgestrel	CHEBI:6443
+eb_b034a_med3_name_CHILDQ	levosalbutamol	CHEBI:8746
+eb_b032a_med1_name_CHILDQ	levothroid	CHEBI:6446
+eb_b032a_med1_name_CHILDQ	levothyroxin	CHEBI:18332
+eb_b033a_med2_name_CHILDQ	levothyroxin	CHEBI:18332
+eb_b034a_med3_name_CHILDQ	levothyroxin	CHEBI:18332
+eb_b035a_med4_name_CHILDQ	levothyroxin	CHEBI:18332
+eb_b036a_med5_name_CHILDQ	levothyroxin	CHEBI:18332
+eb_b038a_med7_name_CHILDQ	levothyroxin	CHEBI:18332
+eb_b032a_med1_name_CHILDQ	levothyroxine	CHEBI:18332
+eb_b033a_med2_name_CHILDQ	levothyroxine	CHEBI:18332
+eb_b034a_med3_name_CHILDQ	levothyroxine	CHEBI:18332
+eb_b035a_med4_name_CHILDQ	levothyroxine	CHEBI:18332
+eb_b036a_med5_name_CHILDQ	levothyroxine	CHEBI:18332
+eb_b037a_med6_name_CHILDQ	levothyroxine	CHEBI:18332
+eb_b038a_med7_name_CHILDQ	levothyroxine	CHEBI:18332
+eb_b039a_med8_name_CHILDQ	levothyroxine	CHEBI:18332
+eb_b040a_med9_name_CHILDQ	levothyroxine	CHEBI:18332
+eb_b032a_med1_name_CHILDQ	levothyroxine sodium	CHEBI:6446
+eb_b035a_med4_name_CHILDQ	levothyroxine sodium	CHEBI:6446
+eb_b036a_med5_name_CHILDQ	levothyroxine sodium	CHEBI:6446
+eb_b032a_med1_name_CHILDQ	levoxyl	CHEBI:6446
+eb_b033a_med2_name_CHILDQ	levoxyl	CHEBI:6446
+eb_b034a_med3_name_CHILDQ	levoxyl	CHEBI:6446
+eb_b041a_med10_name_CHILDQ	lidocaine	CHEBI:6456
+eb_b032a_med1_name_CHILDQ	linzess	CHEBI:68551
+eb_b032a_med1_name_CHILDQ	liothyronine	CHEBI:18258
+eb_b033a_med2_name_CHILDQ	liothyronine	CHEBI:18258
+eb_b034a_med3_name_CHILDQ	liothyronine	CHEBI:18258
+eb_b032a_med1_name_CHILDQ	lipitor	CHEBI:50686
+eb_b033a_med2_name_CHILDQ	lipitor	CHEBI:50686
+eb_b034a_med3_name_CHILDQ	lipitor	CHEBI:50686
+eb_b035a_med4_name_CHILDQ	lipitor	CHEBI:50686
+eb_b036a_med5_name_CHILDQ	lipitor	CHEBI:50686
+eb_b037a_med6_name_CHILDQ	lipitor	CHEBI:50686
+eb_b039a_med8_name_CHILDQ	lipitor	CHEBI:50686
+eb_b040a_med9_name_CHILDQ	lipitor	CHEBI:50686
+eb_b041a_med10_name_CHILDQ	lipitor	CHEBI:50686
+eb_b034a_med3_name_CHILDQ	lipofen	CHEBI:5001
+eb_b034a_med3_name_CHILDQ	lipoic acid	CHEBI:16494
+eb_b039a_med8_name_CHILDQ	lipoic acid	CHEBI:16494
+eb_b032a_med1_name_CHILDQ	lisinopril	CHEBI:43755
+eb_b033a_med2_name_CHILDQ	lisinopril	CHEBI:43755
+eb_b034a_med3_name_CHILDQ	lisinopril	CHEBI:43755
+eb_b035a_med4_name_CHILDQ	lisinopril	CHEBI:43755
+eb_b036a_med5_name_CHILDQ	lisinopril	CHEBI:43755
+eb_b037a_med6_name_CHILDQ	lisinopril	CHEBI:43755
+eb_b038a_med7_name_CHILDQ	lisinopril	CHEBI:43755
+eb_b040a_med9_name_CHILDQ	lisinopril	CHEBI:43755
+eb_b041a_med10_name_CHILDQ	lisinopril	CHEBI:43755
+eb_b032a_med1_name_CHILDQ	lithium	CHEBI:30145
+eb_b033a_med2_name_CHILDQ	lithium	CHEBI:30145
+eb_b036a_med5_name_CHILDQ	lithium	CHEBI:30145
+eb_b037a_med6_name_CHILDQ	lithium	CHEBI:30145
+eb_b041a_med10_name_CHILDQ	lithium	CHEBI:30145
+eb_b032a_med1_name_CHILDQ	lithium carbonate	CHEBI:6504
+eb_b036a_med5_name_CHILDQ	lithium carbonate	CHEBI:6504
+eb_b037a_med6_name_CHILDQ	lithium carbonate	CHEBI:6504
+eb_b037a_med6_name_CHILDQ	lomotil	CHEBI:6519
+eb_b040a_med9_name_CHILDQ	lomotil	CHEBI:6519
+eb_b037a_med6_name_CHILDQ	loperamide	CHEBI:6532
+eb_b039a_med8_name_CHILDQ	loperamide	CHEBI:6532
+eb_b041a_med10_name_CHILDQ	loperamide	CHEBI:6532
+eb_b039a_med8_name_CHILDQ	loperamide hcl	CHEBI:6533
+eb_b041a_med10_name_CHILDQ	loperamide hydrochloride	CHEBI:6533
+eb_b032a_med1_name_CHILDQ	loratadine	CHEBI:6538
+eb_b033a_med2_name_CHILDQ	loratadine	CHEBI:6538
+eb_b034a_med3_name_CHILDQ	loratadine	CHEBI:6538
+eb_b035a_med4_name_CHILDQ	loratadine	CHEBI:6538
+eb_b036a_med5_name_CHILDQ	loratadine	CHEBI:6538
+eb_b037a_med6_name_CHILDQ	loratadine	CHEBI:6538
+eb_b038a_med7_name_CHILDQ	loratadine	CHEBI:6538
+eb_b039a_med8_name_CHILDQ	loratadine	CHEBI:6538
+eb_b041a_med10_name_CHILDQ	loratadine	CHEBI:6538
+eb_b033a_med2_name_CHILDQ	lorazepam	CHEBI:6539
+eb_b035a_med4_name_CHILDQ	lorazepam	CHEBI:6539
+eb_b040a_med9_name_CHILDQ	lorazepam	CHEBI:6539
+eb_b041a_med10_name_CHILDQ	lorazepam	CHEBI:6539
+eb_b032a_med1_name_CHILDQ	losartan	CHEBI:6541
+eb_b033a_med2_name_CHILDQ	losartan	CHEBI:6541
+eb_b034a_med3_name_CHILDQ	losartan	CHEBI:6541
+eb_b035a_med4_name_CHILDQ	losartan	CHEBI:6541
+eb_b036a_med5_name_CHILDQ	losartan	CHEBI:6541
+eb_b037a_med6_name_CHILDQ	losartan	CHEBI:6541
+eb_b038a_med7_name_CHILDQ	losartan	CHEBI:6541
+eb_b039a_med8_name_CHILDQ	losartan	CHEBI:6541
+eb_b040a_med9_name_CHILDQ	losartan	CHEBI:6541
+eb_b041a_med10_name_CHILDQ	losartan	CHEBI:6541
+eb_b032a_med1_name_CHILDQ	lotensin	CHEBI:3012
+eb_b033a_med2_name_CHILDQ	lotensin	CHEBI:3012
+eb_b032a_med1_name_CHILDQ	lovastatin	CHEBI:40303
+eb_b033a_med2_name_CHILDQ	lovastatin	CHEBI:40303
+eb_b034a_med3_name_CHILDQ	lovastatin	CHEBI:40303
+eb_b035a_med4_name_CHILDQ	lovastatin	CHEBI:40303
+eb_b036a_med5_name_CHILDQ	lovastatin	CHEBI:40303
+eb_b037a_med6_name_CHILDQ	lovastatin	CHEBI:40303
+eb_b033a_med2_name_CHILDQ	lupron	CHEBI:63597
+eb_b039a_med8_name_CHILDQ	lupron	CHEBI:63597
+eb_b035a_med4_name_CHILDQ	lutein	CHEBI:28838
+eb_b036a_med5_name_CHILDQ	lutein	CHEBI:28838
+eb_b037a_med6_name_CHILDQ	lutein	CHEBI:28838
+eb_b040a_med9_name_CHILDQ	lutein	CHEBI:28838
+eb_b034a_med3_name_CHILDQ	lycopene	CHEBI:15948
+eb_b033a_med2_name_CHILDQ	lynparza	CHEBI:83766
+eb_b032a_med1_name_CHILDQ	lyrica	CHEBI:64356
+eb_b034a_med3_name_CHILDQ	lyrica	CHEBI:64356
+eb_b039a_med8_name_CHILDQ	lyrica	CHEBI:64356
+eb_b041a_med10_name_CHILDQ	lyrica	CHEBI:64356
+eb_b033a_med2_name_CHILDQ	lysine	CHEBI:25094
+eb_b039a_med8_name_CHILDQ	magnesia	CHEBI:31794
+eb_b032a_med1_name_CHILDQ	magnesium	CHEBI:25107
+eb_b033a_med2_name_CHILDQ	magnesium	CHEBI:25107
+eb_b035a_med4_name_CHILDQ	magnesium	CHEBI:25107
+eb_b036a_med5_name_CHILDQ	magnesium	CHEBI:25107
+eb_b038a_med7_name_CHILDQ	magnesium	CHEBI:25107
+eb_b039a_med8_name_CHILDQ	magnesium	CHEBI:25107
+eb_b040a_med9_name_CHILDQ	magnesium	CHEBI:25107
+eb_b038a_med7_name_CHILDQ	magnesium citrate	CHEBI:131389
+eb_b039a_med8_name_CHILDQ	magnesium citrate	CHEBI:131389
+eb_b032a_med1_name_CHILDQ	magnesium oxide	CHEBI:31794
+eb_b038a_med7_name_CHILDQ	magnesium oxide	CHEBI:31794
+eb_b040a_med9_name_CHILDQ	magnesium oxide	CHEBI:31794
+eb_b032a_med1_name_CHILDQ	maleate	CHEBI:132951
+eb_b033a_med2_name_CHILDQ	maleate	CHEBI:132951
+eb_b034a_med3_name_CHILDQ	maleate	CHEBI:132951
+eb_b035a_med4_name_CHILDQ	maleate	CHEBI:132951
+eb_b038a_med7_name_CHILDQ	maleate	CHEBI:132951
+eb_b033a_med2_name_CHILDQ	meclizine	CHEBI:6709
+eb_b037a_med6_name_CHILDQ	meclizine	CHEBI:6709
+eb_b032a_med1_name_CHILDQ	medroxyprogesterone	CHEBI:6715
+eb_b033a_med2_name_CHILDQ	medroxyprogesterone	CHEBI:6715
+eb_b034a_med3_name_CHILDQ	medroxyprogesterone	CHEBI:6715
+eb_b035a_med4_name_CHILDQ	medroxyprogesterone	CHEBI:6715
+eb_b032a_med1_name_CHILDQ	melatonin	CHEBI:16796
+eb_b033a_med2_name_CHILDQ	melatonin	CHEBI:16796
+eb_b035a_med4_name_CHILDQ	melatonin	CHEBI:16796
+eb_b036a_med5_name_CHILDQ	melatonin	CHEBI:16796
+eb_b038a_med7_name_CHILDQ	melatonin	CHEBI:16796
+eb_b032a_med1_name_CHILDQ	meloxicam	CHEBI:6741
+eb_b033a_med2_name_CHILDQ	meloxicam	CHEBI:6741
+eb_b034a_med3_name_CHILDQ	meloxicam	CHEBI:6741
+eb_b035a_med4_name_CHILDQ	meloxicam	CHEBI:6741
+eb_b036a_med5_name_CHILDQ	meloxicam	CHEBI:6741
+eb_b037a_med6_name_CHILDQ	meloxicam	CHEBI:6741
+eb_b038a_med7_name_CHILDQ	meloxicam	CHEBI:6741
+eb_b041a_med10_name_CHILDQ	meloxicam	CHEBI:6741
+eb_b035a_med4_name_CHILDQ	memantine	CHEBI:64312
+eb_b041a_med10_name_CHILDQ	memantine	CHEBI:64312
+eb_b032a_med1_name_CHILDQ	mercaptopurine	CHEBI:50667
+eb_b033a_med2_name_CHILDQ	mercaptopurine	CHEBI:50667
+eb_b032a_med1_name_CHILDQ	mesalamine	CHEBI:6775
+eb_b037a_med6_name_CHILDQ	metaxalone	CHEBI:6797
+eb_b038a_med7_name_CHILDQ	metaxalone	CHEBI:6797
+eb_b041a_med10_name_CHILDQ	metaxalone	CHEBI:6797
+eb_b032a_med1_name_CHILDQ	metformin	CHEBI:6801
+eb_b033a_med2_name_CHILDQ	metformin	CHEBI:6801
+eb_b034a_med3_name_CHILDQ	metformin	CHEBI:6801
+eb_b035a_med4_name_CHILDQ	metformin	CHEBI:6801
+eb_b036a_med5_name_CHILDQ	metformin	CHEBI:6801
+eb_b037a_med6_name_CHILDQ	metformin	CHEBI:6801
+eb_b038a_med7_name_CHILDQ	metformin	CHEBI:6801
+eb_b039a_med8_name_CHILDQ	metformin	CHEBI:6801
+eb_b040a_med9_name_CHILDQ	metformin	CHEBI:6801
+eb_b041a_med10_name_CHILDQ	metformin	CHEBI:6801
+eb_b032a_med1_name_CHILDQ	metformin hcl	CHEBI:6802
+eb_b033a_med2_name_CHILDQ	metformin hcl	CHEBI:6802
+eb_b034a_med3_name_CHILDQ	metformin hcl	CHEBI:6802
+eb_b037a_med6_name_CHILDQ	metformin hcl	CHEBI:6802
+eb_b041a_med10_name_CHILDQ	metformin hcl	CHEBI:6802
+eb_b034a_med3_name_CHILDQ	metformina	CHEBI:6801
+eb_b032a_med1_name_CHILDQ	methadone	CHEBI:6807
+eb_b033a_med2_name_CHILDQ	methenamine	CHEBI:6824
+eb_b033a_med2_name_CHILDQ	methenamine hippurate	CHEBI:6825
+eb_b032a_med1_name_CHILDQ	methimazole	CHEBI:50673
+eb_b033a_med2_name_CHILDQ	methimazole	CHEBI:50673
+eb_b035a_med4_name_CHILDQ	methimazole	CHEBI:50673
+eb_b032a_med1_name_CHILDQ	methocarbamol	CHEBI:6832
+eb_b035a_med4_name_CHILDQ	methocarbamol	CHEBI:6832
+eb_b032a_med1_name_CHILDQ	methotrexate	CHEBI:44185
+eb_b033a_med2_name_CHILDQ	methotrexate	CHEBI:44185
+eb_b035a_med4_name_CHILDQ	methotrexate	CHEBI:44185
+eb_b036a_med5_name_CHILDQ	methotrexate	CHEBI:44185
+eb_b037a_med6_name_CHILDQ	methotrexate	CHEBI:44185
+eb_b038a_med7_name_CHILDQ	methotrexate	CHEBI:44185
+eb_b039a_med8_name_CHILDQ	methotrexate	CHEBI:44185
+eb_b035a_med4_name_CHILDQ	methylcobalamin	CHEBI:28115
+eb_b032a_med1_name_CHILDQ	methyldopa	CHEBI:61058
+eb_b032a_med1_name_CHILDQ	methylphenidate	CHEBI:6887
+eb_b033a_med2_name_CHILDQ	methylphenidate	CHEBI:6887
+eb_b034a_med3_name_CHILDQ	methylphenidate	CHEBI:6887
+eb_b040a_med9_name_CHILDQ	methylphenidate	CHEBI:6887
+eb_b034a_med3_name_CHILDQ	methylphenidate hcl	CHEBI:31836
+eb_b033a_med2_name_CHILDQ	methyltestosterone	CHEBI:27436
+eb_b032a_med1_name_CHILDQ	metoprolol	CHEBI:6904
+eb_b033a_med2_name_CHILDQ	metoprolol	CHEBI:6904
+eb_b034a_med3_name_CHILDQ	metoprolol	CHEBI:6904
+eb_b035a_med4_name_CHILDQ	metoprolol	CHEBI:6904
+eb_b036a_med5_name_CHILDQ	metoprolol	CHEBI:6904
+eb_b037a_med6_name_CHILDQ	metoprolol	CHEBI:6904
+eb_b038a_med7_name_CHILDQ	metoprolol	CHEBI:6904
+eb_b040a_med9_name_CHILDQ	metoprolol	CHEBI:6904
+eb_b041a_med10_name_CHILDQ	metoprolol	CHEBI:6904
+eb_b032a_med1_name_CHILDQ	metoprolol succinate	CHEBI:6905
+eb_b033a_med2_name_CHILDQ	metoprolol succinate	CHEBI:6905
+eb_b035a_med4_name_CHILDQ	metoprolol succinate	CHEBI:6905
+eb_b036a_med5_name_CHILDQ	metoprolol succinate	CHEBI:6905
+eb_b040a_med9_name_CHILDQ	metoprolol succinate	CHEBI:6905
+eb_b032a_med1_name_CHILDQ	metoprolol tartrate	CHEBI:6906
+eb_b033a_med2_name_CHILDQ	metoprolol tartrate	CHEBI:6906
+eb_b035a_med4_name_CHILDQ	metoprolol tartrate	CHEBI:6906
+eb_b036a_med5_name_CHILDQ	metoprolol tartrate	CHEBI:6906
+eb_b034a_med3_name_CHILDQ	metronidazole	CHEBI:6909
+eb_b035a_med4_name_CHILDQ	metronidazole	CHEBI:6909
+eb_b032a_med1_name_CHILDQ	micardis	CHEBI:9434
+eb_b033a_med2_name_CHILDQ	micardis	CHEBI:9434
+eb_b036a_med5_name_CHILDQ	micardis	CHEBI:9434
+eb_b034a_med3_name_CHILDQ	micronor	CHEBI:7627
+eb_b039a_med8_name_CHILDQ	milk of magnesia	CHEBI:6637
+eb_b032a_med1_name_CHILDQ	minocycline	CHEBI:50694
+eb_b033a_med2_name_CHILDQ	minocycline	CHEBI:50694
+eb_b039a_med8_name_CHILDQ	minocycline	CHEBI:50694
+eb_b032a_med1_name_CHILDQ	minoxidil	CHEBI:6942
+eb_b034a_med3_name_CHILDQ	minoxidil	CHEBI:6942
+eb_b035a_med4_name_CHILDQ	mirabegron	CHEBI:65349
+eb_b032a_med1_name_CHILDQ	mirena	CHEBI:6443
+eb_b033a_med2_name_CHILDQ	mirena	CHEBI:6443
+eb_b036a_med5_name_CHILDQ	mirena	CHEBI:6443
+eb_b038a_med7_name_CHILDQ	mirena	CHEBI:6443
+eb_b032a_med1_name_CHILDQ	mirtazapine	CHEBI:6950
+eb_b034a_med3_name_CHILDQ	mirtazapine	CHEBI:6950
+eb_b037a_med6_name_CHILDQ	mirtazapine	CHEBI:6950
+eb_b032a_med1_name_CHILDQ	misoprostol	CHEBI:63610
+eb_b034a_med3_name_CHILDQ	mixture	CHEBI:60004
+eb_b032a_med1_name_CHILDQ	mobic	CHEBI:6741
+eb_b033a_med2_name_CHILDQ	mobic	CHEBI:6741
+eb_b034a_med3_name_CHILDQ	mobic	CHEBI:6741
+eb_b036a_med5_name_CHILDQ	mobic	CHEBI:6741
+eb_b033a_med2_name_CHILDQ	modafinil	CHEBI:31859
+eb_b034a_med3_name_CHILDQ	modafinil	CHEBI:31859
+eb_b035a_med4_name_CHILDQ	modafinil	CHEBI:31859
+eb_b036a_med5_name_CHILDQ	modafinil	CHEBI:31859
+eb_b032a_med1_name_CHILDQ	mometasone	CHEBI:6970
+eb_b033a_med2_name_CHILDQ	mometasone	CHEBI:6970
+eb_b032a_med1_name_CHILDQ	montelukast	CHEBI:50730
+eb_b033a_med2_name_CHILDQ	montelukast	CHEBI:50730
+eb_b034a_med3_name_CHILDQ	montelukast	CHEBI:50730
+eb_b035a_med4_name_CHILDQ	montelukast	CHEBI:50730
+eb_b036a_med5_name_CHILDQ	montelukast	CHEBI:50730
+eb_b037a_med6_name_CHILDQ	montelukast	CHEBI:50730
+eb_b038a_med7_name_CHILDQ	montelukast	CHEBI:50730
+eb_b039a_med8_name_CHILDQ	montelukast	CHEBI:50730
+eb_b040a_med9_name_CHILDQ	montelukast	CHEBI:50730
+eb_b041a_med10_name_CHILDQ	montelukast	CHEBI:50730
+eb_b033a_med2_name_CHILDQ	montelukast sodium	CHEBI:6993
+eb_b034a_med3_name_CHILDQ	montelukast sodium	CHEBI:6993
+eb_b035a_med4_name_CHILDQ	montelukast sodium	CHEBI:6993
+eb_b036a_med5_name_CHILDQ	montelukast sodium	CHEBI:6993
+eb_b039a_med8_name_CHILDQ	montelukast sodium	CHEBI:6993
+eb_b041a_med10_name_CHILDQ	montelukast sodium	CHEBI:6993
+eb_b040a_med9_name_CHILDQ	morphine	CHEBI:17303
+eb_b040a_med9_name_CHILDQ	morphine	CHEBI:58097
+eb_b032a_med1_name_CHILDQ	motrin	CHEBI:5855
+eb_b033a_med2_name_CHILDQ	motrin	CHEBI:5855
+eb_b036a_med5_name_CHILDQ	motrin	CHEBI:5855
+eb_b037a_med6_name_CHILDQ	motrin	CHEBI:5855
+eb_b041a_med10_name_CHILDQ	motrin	CHEBI:5855
+eb_b032a_med1_name_CHILDQ	multaq	CHEBI:50659
+eb_b038a_med7_name_CHILDQ	multaq	CHEBI:50659
+eb_b034a_med3_name_CHILDQ	mycophenolate	CHEBI:62932
+eb_b034a_med3_name_CHILDQ	mycophenolate	CHEBI:168396
+eb_b032a_med1_name_CHILDQ	myfortic	CHEBI:67155
+eb_b033a_med2_name_CHILDQ	myfortic	CHEBI:67155
+eb_b032a_med1_name_CHILDQ	myrbetriq	CHEBI:65349
+eb_b035a_med4_name_CHILDQ	myrbetriq	CHEBI:65349
+eb_b038a_med7_name_CHILDQ	myrbetriq	CHEBI:65349
+eb_b032a_med1_name_CHILDQ	nabumetone	CHEBI:7443
+eb_b033a_med2_name_CHILDQ	nabumetone	CHEBI:7443
+eb_b035a_med4_name_CHILDQ	nabumetone	CHEBI:7443
+eb_b035a_med4_name_CHILDQ	nadolol	CHEBI:7444
+eb_b034a_med3_name_CHILDQ	naltrexone	CHEBI:7465
+eb_b032a_med1_name_CHILDQ	naproxen	CHEBI:7476
+eb_b033a_med2_name_CHILDQ	naproxen	CHEBI:7476
+eb_b034a_med3_name_CHILDQ	naproxen	CHEBI:7476
+eb_b035a_med4_name_CHILDQ	naproxen	CHEBI:7476
+eb_b036a_med5_name_CHILDQ	naproxen	CHEBI:7476
+eb_b037a_med6_name_CHILDQ	naproxen	CHEBI:7476
+eb_b038a_med7_name_CHILDQ	naproxen	CHEBI:7476
+eb_b040a_med9_name_CHILDQ	naproxen	CHEBI:7476
+eb_b032a_med1_name_CHILDQ	naproxen sodium	CHEBI:7477
+eb_b033a_med2_name_CHILDQ	naproxen sodium	CHEBI:7477
+eb_b034a_med3_name_CHILDQ	naproxen sodium	CHEBI:7477
+eb_b035a_med4_name_CHILDQ	naproxen sodium	CHEBI:7477
+eb_b037a_med6_name_CHILDQ	naproxen sodium	CHEBI:7477
+eb_b038a_med7_name_CHILDQ	naproxen sodium	CHEBI:7477
+eb_b040a_med9_name_CHILDQ	naproxen sodium	CHEBI:7477
+eb_b032a_med1_name_CHILDQ	nasal decongestant	CHEBI:77715
+eb_b032a_med1_name_CHILDQ	nature-throid	CHEBI:9584
+eb_b033a_med2_name_CHILDQ	nature-throid	CHEBI:9584
+eb_b034a_med3_name_CHILDQ	nature-throid	CHEBI:9584
+eb_b035a_med4_name_CHILDQ	nature-throid	CHEBI:9584
+eb_b039a_med8_name_CHILDQ	neomycin	CHEBI:7507
+eb_b032a_med1_name_CHILDQ	neurontin	CHEBI:42797
+eb_b033a_med2_name_CHILDQ	neurontin	CHEBI:42797
+eb_b034a_med3_name_CHILDQ	neurontin	CHEBI:42797
+eb_b037a_med6_name_CHILDQ	neurontin	CHEBI:42797
+eb_b033a_med2_name_CHILDQ	nevirapine	CHEBI:63613
+eb_b032a_med1_name_CHILDQ	niacin	CHEBI:15940
+eb_b034a_med3_name_CHILDQ	niacin	CHEBI:15940
+eb_b039a_med8_name_CHILDQ	niacin	CHEBI:15940
+eb_b040a_med9_name_CHILDQ	niacin	CHEBI:15940
+eb_b033a_med2_name_CHILDQ	niaspan	CHEBI:15940
+eb_b035a_med4_name_CHILDQ	niaspan	CHEBI:15940
+eb_b032a_med1_name_CHILDQ	nifedipine	CHEBI:7565
+eb_b036a_med5_name_CHILDQ	nifedipine	CHEBI:7565
+eb_b040a_med9_name_CHILDQ	nifedipine	CHEBI:7565
+eb_b036a_med5_name_CHILDQ	nitrofurantoin	CHEBI:71415
+eb_b032a_med1_name_CHILDQ	nitrolingual	CHEBI:28787
+eb_b036a_med5_name_CHILDQ	nitrostat	CHEBI:28787
+eb_b039a_med8_name_CHILDQ	nitrostat	CHEBI:28787
+eb_b032a_med1_name_CHILDQ	norethindrone	CHEBI:7627
+eb_b036a_med5_name_CHILDQ	norethindrone	CHEBI:7627
+eb_b037a_med6_name_CHILDQ	norethindrone	CHEBI:7627
+eb_b038a_med7_name_CHILDQ	norethindrone	CHEBI:7627
+eb_b032a_med1_name_CHILDQ	nortriptyline	CHEBI:7640
+eb_b033a_med2_name_CHILDQ	nortriptyline	CHEBI:7640
+eb_b034a_med3_name_CHILDQ	nortriptyline	CHEBI:7640
+eb_b038a_med7_name_CHILDQ	nucynta	CHEBI:135935
+eb_b035a_med4_name_CHILDQ	nuvigil	CHEBI:77590
+eb_b037a_med6_name_CHILDQ	nystatin	CHEBI:7660
+eb_b037a_med6_name_CHILDQ	nystatin	CHEBI:59676
+eb_b032a_med1_name_CHILDQ	odefsey	CHEBI:133010
+eb_b032a_med1_name_CHILDQ	olmesartan	CHEBI:48416
+eb_b033a_med2_name_CHILDQ	olmesartan	CHEBI:48416
+eb_b034a_med3_name_CHILDQ	olmesartan	CHEBI:48416
+eb_b033a_med2_name_CHILDQ	olmesartan medoxomil	CHEBI:31932
+eb_b034a_med3_name_CHILDQ	olmesartan medoxomil	CHEBI:31932
+eb_b032a_med1_name_CHILDQ	olopatadine	CHEBI:7769
+eb_b035a_med4_name_CHILDQ	olopatadine	CHEBI:7769
+eb_b039a_med8_name_CHILDQ	olopatadine	CHEBI:7769
+eb_b039a_med8_name_CHILDQ	olopatadine hcl	CHEBI:7769
+eb_b039a_med8_name_CHILDQ	omega-3 fatty acids	CHEBI:25681
+eb_b033a_med2_name_CHILDQ	omeprazol	CHEBI:7772
+eb_b032a_med1_name_CHILDQ	omeprazole	CHEBI:7772
+eb_b033a_med2_name_CHILDQ	omeprazole	CHEBI:7772
+eb_b034a_med3_name_CHILDQ	omeprazole	CHEBI:7772
+eb_b035a_med4_name_CHILDQ	omeprazole	CHEBI:7772
+eb_b036a_med5_name_CHILDQ	omeprazole	CHEBI:7772
+eb_b037a_med6_name_CHILDQ	omeprazole	CHEBI:7772
+eb_b038a_med7_name_CHILDQ	omeprazole	CHEBI:7772
+eb_b040a_med9_name_CHILDQ	omeprazole	CHEBI:7772
+eb_b041a_med10_name_CHILDQ	omeprazole	CHEBI:7772
+eb_b035a_med4_name_CHILDQ	ondansetron	CHEBI:7773
+eb_b037a_med6_name_CHILDQ	onglyza	CHEBI:71271
+eb_b032a_med1_name_CHILDQ	ophthalmic	CHEBI:66981
+eb_b033a_med2_name_CHILDQ	ophthalmic	CHEBI:66981
+eb_b034a_med3_name_CHILDQ	ophthalmic	CHEBI:66981
+eb_b035a_med4_name_CHILDQ	ophthalmic	CHEBI:66981
+eb_b039a_med8_name_CHILDQ	ophthalmic	CHEBI:66981
+eb_b032a_med1_name_CHILDQ	oral contraceptive	CHEBI:49325
+eb_b033a_med2_name_CHILDQ	osphena	CHEBI:73275
+eb_b034a_med3_name_CHILDQ	osphena	CHEBI:73275
+eb_b034a_med3_name_CHILDQ	oxalate	CHEBI:132952
+eb_b034a_med3_name_CHILDQ	oxalate	CHEBI:30623
+eb_b035a_med4_name_CHILDQ	oxcarbazepine	CHEBI:7824
+eb_b032a_med1_name_CHILDQ	oxybutynin	CHEBI:7856
+eb_b033a_med2_name_CHILDQ	oxybutynin	CHEBI:7856
+eb_b034a_med3_name_CHILDQ	oxybutynin	CHEBI:7856
+eb_b035a_med4_name_CHILDQ	oxybutynin	CHEBI:7856
+eb_b032a_med1_name_CHILDQ	oxybutynin chloride	CHEBI:7857
+eb_b035a_med4_name_CHILDQ	oxybutynin chloride	CHEBI:7857
+eb_b032a_med1_name_CHILDQ	oxycodone	CHEBI:7852
+eb_b033a_med2_name_CHILDQ	oxycodone	CHEBI:7852
+eb_b034a_med3_name_CHILDQ	oxycodone	CHEBI:7852
+eb_b035a_med4_name_CHILDQ	oxycodone	CHEBI:7852
+eb_b036a_med5_name_CHILDQ	oxycodone	CHEBI:7852
+eb_b037a_med6_name_CHILDQ	oxycodone	CHEBI:7852
+eb_b039a_med8_name_CHILDQ	oxycodone	CHEBI:7852
+eb_b040a_med9_name_CHILDQ	oxycodone	CHEBI:7852
+eb_b041a_med10_name_CHILDQ	oxycodone	CHEBI:7852
+eb_b036a_med5_name_CHILDQ	oxycodone hcl	CHEBI:7859
+eb_b039a_med8_name_CHILDQ	oxycodone hcl	CHEBI:7859
+eb_b041a_med10_name_CHILDQ	oxycodone hcl	CHEBI:7859
+eb_b032a_med1_name_CHILDQ	pamelor	CHEBI:7641
+eb_b032a_med1_name_CHILDQ	pantoprazole	CHEBI:7915
+eb_b033a_med2_name_CHILDQ	pantoprazole	CHEBI:7915
+eb_b034a_med3_name_CHILDQ	pantoprazole	CHEBI:7915
+eb_b035a_med4_name_CHILDQ	pantoprazole	CHEBI:7915
+eb_b036a_med5_name_CHILDQ	pantoprazole	CHEBI:7915
+eb_b037a_med6_name_CHILDQ	pantoprazole	CHEBI:7915
+eb_b038a_med7_name_CHILDQ	pantoprazole	CHEBI:7915
+eb_b039a_med8_name_CHILDQ	pantoprazole	CHEBI:7915
+eb_b041a_med10_name_CHILDQ	pantoprazole	CHEBI:7915
+eb_b033a_med2_name_CHILDQ	pantoprazole sodium	CHEBI:50270
+eb_b041a_med10_name_CHILDQ	pantoprazole sodium	CHEBI:50270
+eb_b032a_med1_name_CHILDQ	paroxetine	CHEBI:7936
+eb_b033a_med2_name_CHILDQ	paroxetine	CHEBI:7936
+eb_b034a_med3_name_CHILDQ	paroxetine	CHEBI:7936
+eb_b033a_med2_name_CHILDQ	paroxetine hcl	CHEBI:7944
+eb_b035a_med4_name_CHILDQ	patanol	CHEBI:7769
+eb_b032a_med1_name_CHILDQ	paxil	CHEBI:7944
+eb_b033a_med2_name_CHILDQ	paxil	CHEBI:7944
+eb_b036a_med5_name_CHILDQ	paxil	CHEBI:7944
+eb_b033a_med2_name_CHILDQ	pentasa	CHEBI:6775
+eb_b034a_med3_name_CHILDQ	pentasa	CHEBI:6775
+eb_b034a_med3_name_CHILDQ	pentoxifylline	CHEBI:7986
+eb_b035a_med4_name_CHILDQ	pentoxifylline	CHEBI:7986
+eb_b032a_med1_name_CHILDQ	pepcid	CHEBI:4975
+eb_b033a_med2_name_CHILDQ	pepcid	CHEBI:4975
+eb_b034a_med3_name_CHILDQ	pepcid	CHEBI:4975
+eb_b035a_med4_name_CHILDQ	pepcid	CHEBI:4975
+eb_b036a_med5_name_CHILDQ	pepcid	CHEBI:4975
+eb_b037a_med6_name_CHILDQ	pepcid	CHEBI:4975
+eb_b038a_med7_name_CHILDQ	pepcid	CHEBI:4975
+eb_b039a_med8_name_CHILDQ	pepcid	CHEBI:4975
+eb_b040a_med9_name_CHILDQ	pepcid	CHEBI:4975
+eb_b037a_med6_name_CHILDQ	phenazopyridine	CHEBI:71416
+eb_b032a_med1_name_CHILDQ	phendimetrazine	CHEBI:8059
+eb_b032a_med1_name_CHILDQ	phenelzine	CHEBI:8060
+eb_b032a_med1_name_CHILDQ	phentermine	CHEBI:8080
+eb_b033a_med2_name_CHILDQ	phentermine	CHEBI:8080
+eb_b034a_med3_name_CHILDQ	phentermine	CHEBI:8080
+eb_b041a_med10_name_CHILDQ	phentermine	CHEBI:8080
+eb_b033a_med2_name_CHILDQ	phenylephrine	CHEBI:8093
+eb_b040a_med9_name_CHILDQ	phenylephrine	CHEBI:8093
+eb_b034a_med3_name_CHILDQ	pilocarpine	CHEBI:39462
+eb_b036a_med5_name_CHILDQ	pilocarpine	CHEBI:39462
+eb_b038a_med7_name_CHILDQ	pilocarpine	CHEBI:39462
+eb_b034a_med3_name_CHILDQ	pilocarpine hcl	CHEBI:141029
+eb_b035a_med4_name_CHILDQ	pindolol	CHEBI:8214
+eb_b033a_med2_name_CHILDQ	pioglitazone	CHEBI:8228
+eb_b035a_med4_name_CHILDQ	pioglitazone	CHEBI:8228
+eb_b032a_med1_name_CHILDQ	plavix	CHEBI:3759
+eb_b033a_med2_name_CHILDQ	plavix	CHEBI:3759
+eb_b034a_med3_name_CHILDQ	plavix	CHEBI:3759
+eb_b035a_med4_name_CHILDQ	plavix	CHEBI:3759
+eb_b036a_med5_name_CHILDQ	plavix	CHEBI:3759
+eb_b038a_med7_name_CHILDQ	plavix	CHEBI:3759
+eb_b039a_med8_name_CHILDQ	plavix	CHEBI:3759
+eb_b032a_med1_name_CHILDQ	potassium	CHEBI:26216
+eb_b033a_med2_name_CHILDQ	potassium	CHEBI:26216
+eb_b034a_med3_name_CHILDQ	potassium	CHEBI:26216
+eb_b035a_med4_name_CHILDQ	potassium	CHEBI:26216
+eb_b036a_med5_name_CHILDQ	potassium	CHEBI:26216
+eb_b037a_med6_name_CHILDQ	potassium	CHEBI:26216
+eb_b038a_med7_name_CHILDQ	potassium	CHEBI:26216
+eb_b039a_med8_name_CHILDQ	potassium	CHEBI:26216
+eb_b033a_med2_name_CHILDQ	potassium chloride	CHEBI:32588
+eb_b034a_med3_name_CHILDQ	potassium chloride	CHEBI:32588
+eb_b035a_med4_name_CHILDQ	potassium chloride	CHEBI:32588
+eb_b032a_med1_name_CHILDQ	potassium gluconate	CHEBI:32032
+eb_b033a_med2_name_CHILDQ	pradaxa	CHEBI:70743
+eb_b035a_med4_name_CHILDQ	pradaxa	CHEBI:70743
+eb_b037a_med6_name_CHILDQ	pradaxa	CHEBI:70743
+eb_b033a_med2_name_CHILDQ	pramipexole	CHEBI:8356
+eb_b034a_med3_name_CHILDQ	pramipexole	CHEBI:8356
+eb_b035a_med4_name_CHILDQ	pramipexole	CHEBI:8356
+eb_b037a_med6_name_CHILDQ	pramipexole	CHEBI:8356
+eb_b038a_med7_name_CHILDQ	pramipexole	CHEBI:8356
+eb_b039a_med8_name_CHILDQ	pramipexole	CHEBI:8356
+eb_b033a_med2_name_CHILDQ	pramipexole dihydrochloride	CHEBI:51148
+eb_b035a_med4_name_CHILDQ	pramipexole dihydrochloride	CHEBI:51148
+eb_b032a_med1_name_CHILDQ	pravastatin	CHEBI:63618
+eb_b033a_med2_name_CHILDQ	pravastatin	CHEBI:63618
+eb_b034a_med3_name_CHILDQ	pravastatin	CHEBI:63618
+eb_b035a_med4_name_CHILDQ	pravastatin	CHEBI:63618
+eb_b036a_med5_name_CHILDQ	pravastatin	CHEBI:63618
+eb_b037a_med6_name_CHILDQ	pravastatin	CHEBI:63618
+eb_b038a_med7_name_CHILDQ	pravastatin	CHEBI:63618
+eb_b039a_med8_name_CHILDQ	pravastatin	CHEBI:63618
+eb_b041a_med10_name_CHILDQ	pravastatin	CHEBI:63618
+eb_b033a_med2_name_CHILDQ	pravastatin sodium	CHEBI:8361
+eb_b034a_med3_name_CHILDQ	pravastatin sodium	CHEBI:8361
+eb_b035a_med4_name_CHILDQ	pravastatin sodium	CHEBI:8361
+eb_b038a_med7_name_CHILDQ	pravastatin sodium	CHEBI:8361
+eb_b040a_med9_name_CHILDQ	prazosin	CHEBI:8364
+eb_b032a_med1_name_CHILDQ	prednisolone	CHEBI:8378
+eb_b036a_med5_name_CHILDQ	prednisolone	CHEBI:8378
+eb_b032a_med1_name_CHILDQ	prednisolone acetate	CHEBI:8380
+eb_b032a_med1_name_CHILDQ	prednisone	CHEBI:8382
+eb_b033a_med2_name_CHILDQ	prednisone	CHEBI:8382
+eb_b034a_med3_name_CHILDQ	prednisone	CHEBI:8382
+eb_b036a_med5_name_CHILDQ	prednisone	CHEBI:8382
+eb_b037a_med6_name_CHILDQ	prednisone	CHEBI:8382
+eb_b038a_med7_name_CHILDQ	prednisone	CHEBI:8382
+eb_b039a_med8_name_CHILDQ	prednisone	CHEBI:8382
+eb_b032a_med1_name_CHILDQ	premarin	CHEBI:8389
+eb_b033a_med2_name_CHILDQ	premarin	CHEBI:8389
+eb_b037a_med6_name_CHILDQ	premarin	CHEBI:8389
+eb_b038a_med7_name_CHILDQ	premarin	CHEBI:8389
+eb_b041a_med10_name_CHILDQ	premarin	CHEBI:8389
+eb_b032a_med1_name_CHILDQ	prevacid	CHEBI:6375
+eb_b033a_med2_name_CHILDQ	prevacid	CHEBI:6375
+eb_b034a_med3_name_CHILDQ	prevacid	CHEBI:6375
+eb_b036a_med5_name_CHILDQ	prevacid	CHEBI:6375
+eb_b032a_med1_name_CHILDQ	primidone	CHEBI:8412
+eb_b038a_med7_name_CHILDQ	probenecid	CHEBI:8426
+eb_b032a_med1_name_CHILDQ	progesterone	CHEBI:17026
+eb_b033a_med2_name_CHILDQ	progesterone	CHEBI:17026
+eb_b034a_med3_name_CHILDQ	progesterone	CHEBI:17026
+eb_b037a_med6_name_CHILDQ	progesterone	CHEBI:17026
+eb_b038a_med7_name_CHILDQ	progesterone	CHEBI:17026
+eb_b032a_med1_name_CHILDQ	progestin	CHEBI:59826
+eb_b032a_med1_name_CHILDQ	prograf	CHEBI:61049
+eb_b036a_med5_name_CHILDQ	prograf	CHEBI:61049
+eb_b033a_med2_name_CHILDQ	promethazine	CHEBI:8461
+eb_b038a_med7_name_CHILDQ	promethazine	CHEBI:8461
+eb_b033a_med2_name_CHILDQ	promethazine hcl	CHEBI:8462
+eb_b033a_med2_name_CHILDQ	propafenone	CHEBI:63619
+eb_b032a_med1_name_CHILDQ	propanolol	CHEBI:8499
+eb_b032a_med1_name_CHILDQ	propionate	CHEBI:17272
+eb_b033a_med2_name_CHILDQ	propionate	CHEBI:17272
+eb_b034a_med3_name_CHILDQ	propionate	CHEBI:17272
+eb_b035a_med4_name_CHILDQ	propionate	CHEBI:17272
+eb_b036a_med5_name_CHILDQ	propionate	CHEBI:17272
+eb_b037a_med6_name_CHILDQ	propionate	CHEBI:17272
+eb_b038a_med7_name_CHILDQ	propionate	CHEBI:17272
+eb_b040a_med9_name_CHILDQ	propionate	CHEBI:17272
+eb_b041a_med10_name_CHILDQ	propionate	CHEBI:17272
+eb_b032a_med1_name_CHILDQ	propranolol	CHEBI:8499
+eb_b033a_med2_name_CHILDQ	propranolol	CHEBI:8499
+eb_b034a_med3_name_CHILDQ	propranolol	CHEBI:8499
+eb_b035a_med4_name_CHILDQ	propranolol	CHEBI:8499
+eb_b036a_med5_name_CHILDQ	propranolol	CHEBI:8499
+eb_b041a_med10_name_CHILDQ	propranolol	CHEBI:8499
+eb_b032a_med1_name_CHILDQ	protonix	CHEBI:50270
+eb_b033a_med2_name_CHILDQ	protonix	CHEBI:50270
+eb_b034a_med3_name_CHILDQ	protonix	CHEBI:50270
+eb_b035a_med4_name_CHILDQ	protonix	CHEBI:50270
+eb_b037a_med6_name_CHILDQ	protonix	CHEBI:50270
+eb_b032a_med1_name_CHILDQ	proventil	CHEBI:2549
+eb_b033a_med2_name_CHILDQ	proventil	CHEBI:2549
+eb_b037a_med6_name_CHILDQ	proventil	CHEBI:2549
+eb_b032a_med1_name_CHILDQ	provigil	CHEBI:31859
+eb_b041a_med10_name_CHILDQ	provigil	CHEBI:31859
+eb_b032a_med1_name_CHILDQ	prozac	CHEBI:5118
+eb_b033a_med2_name_CHILDQ	prozac	CHEBI:5118
+eb_b034a_med3_name_CHILDQ	prozac	CHEBI:5118
+eb_b035a_med4_name_CHILDQ	prozac	CHEBI:5118
+eb_b036a_med5_name_CHILDQ	prozac	CHEBI:5118
+eb_b034a_med3_name_CHILDQ	quetiapine	CHEBI:8707
+eb_b036a_med5_name_CHILDQ	quetiapine	CHEBI:8707
+eb_b039a_med8_name_CHILDQ	quetiapine	CHEBI:8707
+eb_b034a_med3_name_CHILDQ	quetiapine fumarate	CHEBI:8708
+eb_b039a_med8_name_CHILDQ	quetiapine fumarate	CHEBI:8708
+eb_b032a_med1_name_CHILDQ	quinapril	CHEBI:8713
+eb_b034a_med3_name_CHILDQ	quinapril	CHEBI:8713
+eb_b033a_med2_name_CHILDQ	rabeprazole	CHEBI:8768
+eb_b033a_med2_name_CHILDQ	raloxifene	CHEBI:8772
+eb_b035a_med4_name_CHILDQ	raloxifene	CHEBI:8772
+eb_b036a_med5_name_CHILDQ	raloxifene	CHEBI:8772
+eb_b032a_med1_name_CHILDQ	ramipril	CHEBI:8774
+eb_b033a_med2_name_CHILDQ	ramipril	CHEBI:8774
+eb_b034a_med3_name_CHILDQ	ramipril	CHEBI:8774
+eb_b035a_med4_name_CHILDQ	ramipril	CHEBI:8774
+eb_b038a_med7_name_CHILDQ	ramipril	CHEBI:8774
+eb_b032a_med1_name_CHILDQ	ranexa	CHEBI:87681
+eb_b033a_med2_name_CHILDQ	ranexa	CHEBI:87681
+eb_b032a_med1_name_CHILDQ	ranitidine	CHEBI:8776
+eb_b033a_med2_name_CHILDQ	ranitidine	CHEBI:8776
+eb_b034a_med3_name_CHILDQ	ranitidine	CHEBI:8776
+eb_b035a_med4_name_CHILDQ	ranitidine	CHEBI:8776
+eb_b036a_med5_name_CHILDQ	ranitidine	CHEBI:8776
+eb_b037a_med6_name_CHILDQ	ranitidine	CHEBI:8776
+eb_b038a_med7_name_CHILDQ	ranitidine	CHEBI:8776
+eb_b039a_med8_name_CHILDQ	ranitidine	CHEBI:8776
+eb_b040a_med9_name_CHILDQ	ranitidine	CHEBI:8776
+eb_b035a_med4_name_CHILDQ	ranitidine hcl	CHEBI:8777
+eb_b038a_med7_name_CHILDQ	ranitidine hcl	CHEBI:8777
+eb_b032a_med1_name_CHILDQ	ranolazine	CHEBI:87681
+eb_b033a_med2_name_CHILDQ	rapaflo	CHEBI:135929
+eb_b038a_med7_name_CHILDQ	rapaflo	CHEBI:135929
+eb_b032a_med1_name_CHILDQ	relafen	CHEBI:7443
+eb_b032a_med1_name_CHILDQ	relpax	CHEBI:61176
+eb_b033a_med2_name_CHILDQ	relpax	CHEBI:61176
+eb_b034a_med3_name_CHILDQ	relpax	CHEBI:61176
+eb_b038a_med7_name_CHILDQ	relpax	CHEBI:61176
+eb_b041a_med10_name_CHILDQ	relpax	CHEBI:61176
+eb_b032a_med1_name_CHILDQ	revlimid	CHEBI:63791
+eb_b039a_med8_name_CHILDQ	revlimid	CHEBI:63791
+eb_b032a_med1_name_CHILDQ	rexulti	CHEBI:134716
+eb_b033a_med2_name_CHILDQ	reyataz	CHEBI:31243
+eb_b037a_med6_name_CHILDQ	rifampin	CHEBI:28077
+eb_b032a_med1_name_CHILDQ	risedronate	CHEBI:8869
+eb_b036a_med5_name_CHILDQ	risedronate	CHEBI:8869
+eb_b033a_med2_name_CHILDQ	risperdal	CHEBI:8871
+eb_b032a_med1_name_CHILDQ	ritalin	CHEBI:31836
+eb_b034a_med3_name_CHILDQ	ritalin	CHEBI:31836
+eb_b035a_med4_name_CHILDQ	ritalin	CHEBI:31836
+eb_b037a_med6_name_CHILDQ	ritalin	CHEBI:31836
+eb_b033a_med2_name_CHILDQ	rivaroxaban	CHEBI:68579
+eb_b035a_med4_name_CHILDQ	rivastigmine	CHEBI:8874
+eb_b032a_med1_name_CHILDQ	rizatriptan	CHEBI:48273
+eb_b034a_med3_name_CHILDQ	rizatriptan	CHEBI:48273
+eb_b035a_med4_name_CHILDQ	rizatriptan	CHEBI:48273
+eb_b032a_med1_name_CHILDQ	ropinirole	CHEBI:8888
+eb_b034a_med3_name_CHILDQ	ropinirole	CHEBI:8888
+eb_b037a_med6_name_CHILDQ	ropinirole	CHEBI:8888
+eb_b032a_med1_name_CHILDQ	rosuvastatin	CHEBI:38545
+eb_b033a_med2_name_CHILDQ	rosuvastatin	CHEBI:38545
+eb_b034a_med3_name_CHILDQ	rosuvastatin	CHEBI:38545
+eb_b035a_med4_name_CHILDQ	rosuvastatin	CHEBI:38545
+eb_b036a_med5_name_CHILDQ	rosuvastatin	CHEBI:38545
+eb_b032a_med1_name_CHILDQ	rosuvastatin calcium	CHEBI:77249
+eb_b033a_med2_name_CHILDQ	rosuvastatin calcium	CHEBI:77249
+eb_b034a_med3_name_CHILDQ	rosuvastatin calcium	CHEBI:77249
+eb_b035a_med4_name_CHILDQ	rosuvastatin calcium	CHEBI:77249
+eb_b037a_med6_name_CHILDQ	s-adenosylmethionine	CHEBI:15414
+eb_b034a_med3_name_CHILDQ	sectral	CHEBI:2380
+eb_b036a_med5_name_CHILDQ	serevent	CHEBI:9012
+eb_b032a_med1_name_CHILDQ	seroquel	CHEBI:8708
+eb_b034a_med3_name_CHILDQ	seroquel	CHEBI:8708
+eb_b032a_med1_name_CHILDQ	sertraline	CHEBI:9123
+eb_b033a_med2_name_CHILDQ	sertraline	CHEBI:9123
+eb_b034a_med3_name_CHILDQ	sertraline	CHEBI:9123
+eb_b035a_med4_name_CHILDQ	sertraline	CHEBI:9123
+eb_b036a_med5_name_CHILDQ	sertraline	CHEBI:9123
+eb_b037a_med6_name_CHILDQ	sertraline	CHEBI:9123
+eb_b038a_med7_name_CHILDQ	sertraline	CHEBI:9123
+eb_b039a_med8_name_CHILDQ	sertraline	CHEBI:9123
+eb_b032a_med1_name_CHILDQ	sertraline hcl	CHEBI:9124
+eb_b033a_med2_name_CHILDQ	sertraline hcl	CHEBI:9124
+eb_b034a_med3_name_CHILDQ	sertraline hcl	CHEBI:9124
+eb_b035a_med4_name_CHILDQ	sertraline hcl	CHEBI:9124
+eb_b034a_med3_name_CHILDQ	sildenafil	CHEBI:9139
+eb_b036a_med5_name_CHILDQ	sildenafil	CHEBI:9139
+eb_b038a_med7_name_CHILDQ	sildenafil	CHEBI:9139
+eb_b038a_med7_name_CHILDQ	sildenafil citrate	CHEBI:58987
+eb_b037a_med6_name_CHILDQ	silver sulfadiazine	CHEBI:9142
+eb_b032a_med1_name_CHILDQ	simvastatin	CHEBI:9150
+eb_b033a_med2_name_CHILDQ	simvastatin	CHEBI:9150
+eb_b034a_med3_name_CHILDQ	simvastatin	CHEBI:9150
+eb_b035a_med4_name_CHILDQ	simvastatin	CHEBI:9150
+eb_b036a_med5_name_CHILDQ	simvastatin	CHEBI:9150
+eb_b037a_med6_name_CHILDQ	simvastatin	CHEBI:9150
+eb_b038a_med7_name_CHILDQ	simvastatin	CHEBI:9150
+eb_b041a_med10_name_CHILDQ	simvastatin	CHEBI:9150
+eb_b032a_med1_name_CHILDQ	simvastatine	CHEBI:9150
+eb_b032a_med1_name_CHILDQ	singulair	CHEBI:6993
+eb_b033a_med2_name_CHILDQ	singulair	CHEBI:6993
+eb_b034a_med3_name_CHILDQ	singulair	CHEBI:6993
+eb_b037a_med6_name_CHILDQ	singulair	CHEBI:6993
+eb_b032a_med1_name_CHILDQ	singular	CHEBI:6993
+eb_b033a_med2_name_CHILDQ	singular	CHEBI:6993
+eb_b034a_med3_name_CHILDQ	singular	CHEBI:6993
+eb_b037a_med6_name_CHILDQ	singular	CHEBI:6993
+eb_b038a_med7_name_CHILDQ	singular	CHEBI:6993
+eb_b032a_med1_name_CHILDQ	sitosterol	CHEBI:27693
+eb_b036a_med5_name_CHILDQ	sodium bicarbonate	CHEBI:32139
+eb_b033a_med2_name_CHILDQ	sodium chloride	CHEBI:26710
+eb_b038a_med7_name_CHILDQ	sodium chloride	CHEBI:26710
+eb_b036a_med5_name_CHILDQ	sodium sulfacetamide	CHEBI:63858
+eb_b038a_med7_name_CHILDQ	solifenacin	CHEBI:135530
+eb_b032a_med1_name_CHILDQ	sotalol	CHEBI:63622
+eb_b033a_med2_name_CHILDQ	sotalol	CHEBI:63622
+eb_b035a_med4_name_CHILDQ	sotalol	CHEBI:63622
+eb_b036a_med5_name_CHILDQ	sotalol	CHEBI:63622
+eb_b033a_med2_name_CHILDQ	sotalol hcl	CHEBI:9207
+eb_b035a_med4_name_CHILDQ	sotalol hcl	CHEBI:9207
+eb_b032a_med1_name_CHILDQ	spironolactone	CHEBI:9241
+eb_b033a_med2_name_CHILDQ	spironolactone	CHEBI:9241
+eb_b034a_med3_name_CHILDQ	spironolactone	CHEBI:9241
+eb_b035a_med4_name_CHILDQ	spironolactone	CHEBI:9241
+eb_b037a_med6_name_CHILDQ	spironolactone	CHEBI:9241
+eb_b038a_med7_name_CHILDQ	spironolactone	CHEBI:9241
+eb_b039a_med8_name_CHILDQ	spironolactone	CHEBI:9241
+eb_b040a_med9_name_CHILDQ	spironolactone	CHEBI:9241
+eb_b032a_med1_name_CHILDQ	statin	CHEBI:87631
+eb_b033a_med2_name_CHILDQ	statin	CHEBI:87631
+eb_b034a_med3_name_CHILDQ	statin	CHEBI:87631
+eb_b034a_med3_name_CHILDQ	sucralfate	CHEBI:9313
+eb_b035a_med4_name_CHILDQ	sucralfate	CHEBI:9313
+eb_b036a_med5_name_CHILDQ	sulfacetamide	CHEBI:63845
+eb_b037a_med6_name_CHILDQ	sulfadiazine	CHEBI:9328
+eb_b032a_med1_name_CHILDQ	sulfasalazine	CHEBI:9334
+eb_b032a_med1_name_CHILDQ	sumatriptan	CHEBI:10650
+eb_b033a_med2_name_CHILDQ	sumatriptan	CHEBI:10650
+eb_b034a_med3_name_CHILDQ	sumatriptan	CHEBI:10650
+eb_b035a_med4_name_CHILDQ	sumatriptan	CHEBI:10650
+eb_b037a_med6_name_CHILDQ	sumatriptan	CHEBI:10650
+eb_b039a_med8_name_CHILDQ	symlin	CHEBI:135922
+eb_b032a_med1_name_CHILDQ	synthroid	CHEBI:6446
+eb_b033a_med2_name_CHILDQ	synthroid	CHEBI:6446
+eb_b034a_med3_name_CHILDQ	synthroid	CHEBI:6446
+eb_b035a_med4_name_CHILDQ	synthroid	CHEBI:6446
+eb_b036a_med5_name_CHILDQ	synthroid	CHEBI:6446
+eb_b037a_med6_name_CHILDQ	synthroid	CHEBI:6446
+eb_b039a_med8_name_CHILDQ	synthroid	CHEBI:6446
+eb_b040a_med9_name_CHILDQ	synthroid	CHEBI:6446
+eb_b033a_med2_name_CHILDQ	tacrolimus	CHEBI:61049
+eb_b034a_med3_name_CHILDQ	tadalafil	CHEBI:71940
+eb_b037a_med6_name_CHILDQ	tadalafil	CHEBI:71940
+eb_b039a_med8_name_CHILDQ	tadalafil	CHEBI:71940
+eb_b035a_med4_name_CHILDQ	tagamet	CHEBI:50362
+eb_b032a_med1_name_CHILDQ	tamoxifen	CHEBI:41774
+eb_b033a_med2_name_CHILDQ	tamoxifen	CHEBI:41774
+eb_b034a_med3_name_CHILDQ	tamoxifen	CHEBI:41774
+eb_b032a_med1_name_CHILDQ	tamsulosin	CHEBI:9398
+eb_b033a_med2_name_CHILDQ	tamsulosin	CHEBI:9398
+eb_b034a_med3_name_CHILDQ	tamsulosin	CHEBI:9398
+eb_b035a_med4_name_CHILDQ	tamsulosin	CHEBI:9398
+eb_b037a_med6_name_CHILDQ	tamsulosin	CHEBI:9398
+eb_b038a_med7_name_CHILDQ	tamsulosin	CHEBI:9398
+eb_b041a_med10_name_CHILDQ	tamsulosin	CHEBI:9398
+eb_b034a_med3_name_CHILDQ	tanzeum	CHEBI:78425
+eb_b035a_med4_name_CHILDQ	tanzeum	CHEBI:78425
+eb_b032a_med1_name_CHILDQ	tartrate	CHEBI:132950
+eb_b033a_med2_name_CHILDQ	tartrate	CHEBI:132950
+eb_b034a_med3_name_CHILDQ	tartrate	CHEBI:132950
+eb_b035a_med4_name_CHILDQ	tartrate	CHEBI:132950
+eb_b036a_med5_name_CHILDQ	tartrate	CHEBI:132950
+eb_b038a_med7_name_CHILDQ	tartrate	CHEBI:132950
+eb_b032a_med1_name_CHILDQ	tecfidera	CHEBI:76004
+eb_b032a_med1_name_CHILDQ	telmisartan	CHEBI:9434
+eb_b034a_med3_name_CHILDQ	telmisartan	CHEBI:9434
+eb_b035a_med4_name_CHILDQ	telmisartan	CHEBI:9434
+eb_b034a_med3_name_CHILDQ	temazepam	CHEBI:9435
+eb_b032a_med1_name_CHILDQ	terazosin	CHEBI:9445
+eb_b032a_med1_name_CHILDQ	terbinafine	CHEBI:9448
+eb_b032a_med1_name_CHILDQ	terbinafine hcl	CHEBI:77614
+eb_b032a_med1_name_CHILDQ	testosteron	CHEBI:17347
+eb_b032a_med1_name_CHILDQ	testosterone	CHEBI:17347
+eb_b033a_med2_name_CHILDQ	testosterone	CHEBI:17347
+eb_b035a_med4_name_CHILDQ	testosterone	CHEBI:17347
+eb_b036a_med5_name_CHILDQ	testosterone	CHEBI:17347
+eb_b037a_med6_name_CHILDQ	testosterone	CHEBI:17347
+eb_b038a_med7_name_CHILDQ	testosterone	CHEBI:17347
+eb_b039a_med8_name_CHILDQ	testosterone	CHEBI:17347
+eb_b035a_med4_name_CHILDQ	testosterone cypionate	CHEBI:9463
+eb_b038a_med7_name_CHILDQ	testosterone cypionate	CHEBI:9463
+eb_b032a_med1_name_CHILDQ	theanine	CHEBI:58128
+eb_b032a_med1_name_CHILDQ	theophylline	CHEBI:28177
+eb_b032a_med1_name_CHILDQ	thyroid hormone	CHEBI:60311
+eb_b032a_med1_name_CHILDQ	thyroxine	CHEBI:30660
+eb_b033a_med2_name_CHILDQ	thyroxine	CHEBI:30660
+eb_b034a_med3_name_CHILDQ	thyroxine	CHEBI:30660
+eb_b035a_med4_name_CHILDQ	thyroxine	CHEBI:30660
+eb_b036a_med5_name_CHILDQ	thyroxine	CHEBI:30660
+eb_b036a_med5_name_CHILDQ	ticagrelor	CHEBI:68558
+eb_b032a_med1_name_CHILDQ	tikosyn	CHEBI:4681
+eb_b033a_med2_name_CHILDQ	timolol	CHEBI:39465
+eb_b035a_med4_name_CHILDQ	timolol	CHEBI:39465
+eb_b036a_med5_name_CHILDQ	timolol	CHEBI:39465
+eb_b033a_med2_name_CHILDQ	timolol maleate	CHEBI:9600
+eb_b035a_med4_name_CHILDQ	timolol maleate	CHEBI:9600
+eb_b033a_med2_name_CHILDQ	tizanidine	CHEBI:63629
+eb_b035a_med4_name_CHILDQ	tizanidine	CHEBI:63629
+eb_b036a_med5_name_CHILDQ	tizanidine	CHEBI:63629
+eb_b037a_med6_name_CHILDQ	tizanidine	CHEBI:63629
+eb_b034a_med3_name_CHILDQ	tolterodine	CHEBI:9622
+eb_b036a_med5_name_CHILDQ	tolterodine	CHEBI:9622
+eb_b032a_med1_name_CHILDQ	topamax	CHEBI:63631
+eb_b033a_med2_name_CHILDQ	topamax	CHEBI:63631
+eb_b037a_med6_name_CHILDQ	topamax	CHEBI:63631
+eb_b032a_med1_name_CHILDQ	topiramate	CHEBI:63631
+eb_b033a_med2_name_CHILDQ	topiramate	CHEBI:63631
+eb_b035a_med4_name_CHILDQ	topiramate	CHEBI:63631
+eb_b036a_med5_name_CHILDQ	topiramate	CHEBI:63631
+eb_b037a_med6_name_CHILDQ	topiramate	CHEBI:63631
+eb_b038a_med7_name_CHILDQ	topiramate	CHEBI:63631
+eb_b032a_med1_name_CHILDQ	torsemide	CHEBI:9637
+eb_b037a_med6_name_CHILDQ	torsemide	CHEBI:9637
+eb_b036a_med5_name_CHILDQ	toviaz	CHEBI:135920
+eb_b040a_med9_name_CHILDQ	toviaz	CHEBI:135920
+eb_b032a_med1_name_CHILDQ	tradjenta	CHEBI:68610
+eb_b032a_med1_name_CHILDQ	tramadol	CHEBI:9648
+eb_b033a_med2_name_CHILDQ	tramadol	CHEBI:9648
+eb_b034a_med3_name_CHILDQ	tramadol	CHEBI:9648
+eb_b035a_med4_name_CHILDQ	tramadol	CHEBI:9648
+eb_b036a_med5_name_CHILDQ	tramadol	CHEBI:9648
+eb_b037a_med6_name_CHILDQ	tramadol	CHEBI:9648
+eb_b038a_med7_name_CHILDQ	tramadol	CHEBI:9648
+eb_b039a_med8_name_CHILDQ	tramadol	CHEBI:9648
+eb_b040a_med9_name_CHILDQ	tramadol	CHEBI:9648
+eb_b032a_med1_name_CHILDQ	tramadol hcl	CHEBI:32250
+eb_b033a_med2_name_CHILDQ	tramadol hcl	CHEBI:32250
+eb_b034a_med3_name_CHILDQ	tramadol hcl	CHEBI:32250
+eb_b036a_med5_name_CHILDQ	tramadol hcl	CHEBI:32250
+eb_b038a_med7_name_CHILDQ	tramadol hcl	CHEBI:32250
+eb_b035a_med4_name_CHILDQ	tranexamic acid	CHEBI:48669
+eb_b032a_med1_name_CHILDQ	travatan	CHEBI:746859
+eb_b041a_med10_name_CHILDQ	travatan	CHEBI:746859
+eb_b032a_med1_name_CHILDQ	travatan z	CHEBI:746859
+eb_b034a_med3_name_CHILDQ	travoprost	CHEBI:746859
+eb_b032a_med1_name_CHILDQ	trazodone	CHEBI:9654
+eb_b033a_med2_name_CHILDQ	trazodone	CHEBI:9654
+eb_b034a_med3_name_CHILDQ	trazodone	CHEBI:9654
+eb_b035a_med4_name_CHILDQ	trazodone	CHEBI:9654
+eb_b036a_med5_name_CHILDQ	trazodone	CHEBI:9654
+eb_b037a_med6_name_CHILDQ	trazodone	CHEBI:9654
+eb_b038a_med7_name_CHILDQ	trazodone	CHEBI:9654
+eb_b039a_med8_name_CHILDQ	trazodone	CHEBI:9654
+eb_b040a_med9_name_CHILDQ	trazodone	CHEBI:9654
+eb_b041a_med10_name_CHILDQ	trazodone	CHEBI:9654
+eb_b032a_med1_name_CHILDQ	tretinoin	CHEBI:15367
+eb_b033a_med2_name_CHILDQ	tretinoin	CHEBI:15367
+eb_b037a_med6_name_CHILDQ	tretinoin	CHEBI:15367
+eb_b039a_med8_name_CHILDQ	tretinoin	CHEBI:15367
+eb_b033a_med2_name_CHILDQ	triamcinolone	CHEBI:9667
+eb_b036a_med5_name_CHILDQ	triamcinolone	CHEBI:9667
+eb_b039a_med8_name_CHILDQ	triamcinolone	CHEBI:9667
+eb_b040a_med9_name_CHILDQ	triamcinolone	CHEBI:9667
+eb_b033a_med2_name_CHILDQ	triamcinolone acetonide	CHEBI:71418
+eb_b036a_med5_name_CHILDQ	triamcinolone acetonide	CHEBI:71418
+eb_b032a_med1_name_CHILDQ	triamterene	CHEBI:9671
+eb_b033a_med2_name_CHILDQ	triamterene	CHEBI:9671
+eb_b034a_med3_name_CHILDQ	triamterene	CHEBI:9671
+eb_b035a_med4_name_CHILDQ	triamterene	CHEBI:9671
+eb_b038a_med7_name_CHILDQ	triamterene	CHEBI:9671
+eb_b041a_med10_name_CHILDQ	triamterene	CHEBI:9671
+eb_b032a_med1_name_CHILDQ	tricor	CHEBI:5001
+eb_b035a_med4_name_CHILDQ	tricor	CHEBI:5001
+eb_b036a_med5_name_CHILDQ	tricor	CHEBI:5001
+eb_b032a_med1_name_CHILDQ	trospium	CHEBI:145791
+eb_b032a_med1_name_CHILDQ	tylenol	CHEBI:46195
+eb_b033a_med2_name_CHILDQ	tylenol	CHEBI:46195
+eb_b034a_med3_name_CHILDQ	tylenol	CHEBI:46195
+eb_b035a_med4_name_CHILDQ	tylenol	CHEBI:46195
+eb_b036a_med5_name_CHILDQ	tylenol	CHEBI:46195
+eb_b037a_med6_name_CHILDQ	tylenol	CHEBI:46195
+eb_b038a_med7_name_CHILDQ	tylenol	CHEBI:46195
+eb_b039a_med8_name_CHILDQ	tylenol	CHEBI:46195
+eb_b040a_med9_name_CHILDQ	tylenol	CHEBI:46195
+eb_b041a_med10_name_CHILDQ	tylenol	CHEBI:46195
+eb_b032a_med1_name_CHILDQ	ubiquinol	CHEBI:17976
+eb_b032a_med1_name_CHILDQ	uloric	CHEBI:31596
+eb_b033a_med2_name_CHILDQ	uloric	CHEBI:31596
+eb_b034a_med3_name_CHILDQ	uloric	CHEBI:31596
+eb_b035a_med4_name_CHILDQ	uloric	CHEBI:31596
+eb_b032a_med1_name_CHILDQ	valacyclovir	CHEBI:35854
+eb_b033a_med2_name_CHILDQ	valacyclovir	CHEBI:35854
+eb_b034a_med3_name_CHILDQ	valacyclovir	CHEBI:35854
+eb_b035a_med4_name_CHILDQ	valacyclovir	CHEBI:35854
+eb_b037a_med6_name_CHILDQ	valacyclovir	CHEBI:35854
+eb_b041a_med10_name_CHILDQ	valacyclovir	CHEBI:35854
+eb_b038a_med7_name_CHILDQ	valganciclovir	CHEBI:63635
+eb_b032a_med1_name_CHILDQ	valium	CHEBI:49575
+eb_b035a_med4_name_CHILDQ	valium	CHEBI:49575
+eb_b032a_med1_name_CHILDQ	valproic acid	CHEBI:39867
+eb_b033a_med2_name_CHILDQ	valproic acid	CHEBI:39867
+eb_b032a_med1_name_CHILDQ	valsartan	CHEBI:9927
+eb_b033a_med2_name_CHILDQ	valsartan	CHEBI:9927
+eb_b034a_med3_name_CHILDQ	valsartan	CHEBI:9927
+eb_b035a_med4_name_CHILDQ	valsartan	CHEBI:9927
+eb_b036a_med5_name_CHILDQ	valsartan	CHEBI:9927
+eb_b038a_med7_name_CHILDQ	valsartan	CHEBI:9927
+eb_b040a_med9_name_CHILDQ	valsartan	CHEBI:9927
+eb_b035a_med4_name_CHILDQ	vancomycin	CHEBI:28001
+eb_b037a_med6_name_CHILDQ	vascepa	CHEBI:84883
+eb_b032a_med1_name_CHILDQ	venlafaxine	CHEBI:9943
+eb_b033a_med2_name_CHILDQ	venlafaxine	CHEBI:9943
+eb_b034a_med3_name_CHILDQ	venlafaxine	CHEBI:9943
+eb_b035a_med4_name_CHILDQ	venlafaxine	CHEBI:9943
+eb_b038a_med7_name_CHILDQ	venlafaxine	CHEBI:9943
+eb_b032a_med1_name_CHILDQ	venlafaxine hcl	CHEBI:9944
+eb_b032a_med1_name_CHILDQ	ventolin	CHEBI:2550
+eb_b034a_med3_name_CHILDQ	ventolin	CHEBI:2550
+eb_b035a_med4_name_CHILDQ	ventolin	CHEBI:2550
+eb_b036a_med5_name_CHILDQ	ventolin	CHEBI:2550
+eb_b037a_med6_name_CHILDQ	ventolin	CHEBI:2550
+eb_b038a_med7_name_CHILDQ	ventolin	CHEBI:2550
+eb_b039a_med8_name_CHILDQ	ventolin	CHEBI:2550
+eb_b040a_med9_name_CHILDQ	ventolin	CHEBI:2550
+eb_b041a_med10_name_CHILDQ	ventolin	CHEBI:2550
+eb_b035a_med4_name_CHILDQ	veramyst	CHEBI:74899
+eb_b032a_med1_name_CHILDQ	verapamil	CHEBI:9948
+eb_b033a_med2_name_CHILDQ	verapamil	CHEBI:9948
+eb_b035a_med4_name_CHILDQ	verapamil	CHEBI:9948
+eb_b037a_med6_name_CHILDQ	verapamil	CHEBI:9948
+eb_b033a_med2_name_CHILDQ	vesicare	CHEBI:135530
+eb_b034a_med3_name_CHILDQ	vesicare	CHEBI:135530
+eb_b035a_med4_name_CHILDQ	vesicare	CHEBI:135530
+eb_b032a_med1_name_CHILDQ	viagra	CHEBI:58987
+eb_b038a_med7_name_CHILDQ	viagra	CHEBI:58987
+eb_b032a_med1_name_CHILDQ	victoza	CHEBI:71193
+eb_b033a_med2_name_CHILDQ	victoza	CHEBI:71193
+eb_b034a_med3_name_CHILDQ	victoza	CHEBI:71193
+eb_b037a_med6_name_CHILDQ	victoza	CHEBI:71193
+eb_b038a_med7_name_CHILDQ	victoza	CHEBI:71193
+eb_b040a_med9_name_CHILDQ	victoza	CHEBI:71193
+eb_b032a_med1_name_CHILDQ	viibryd	CHEBI:70705
+eb_b033a_med2_name_CHILDQ	viibryd	CHEBI:70705
+eb_b036a_med5_name_CHILDQ	vilanterol	CHEBI:75037
+eb_b032a_med1_name_CHILDQ	vimpat	CHEBI:135939
+eb_b034a_med3_name_CHILDQ	vistaril	CHEBI:31680
+eb_b032a_med1_name_CHILDQ	vitamin b	CHEBI:75769
+eb_b035a_med4_name_CHILDQ	vitamin b	CHEBI:75769
+eb_b036a_med5_name_CHILDQ	vitamin b	CHEBI:75769
+eb_b040a_med9_name_CHILDQ	vitamin b	CHEBI:75769
+eb_b041a_med10_name_CHILDQ	vitamin b	CHEBI:75769
+eb_b032a_med1_name_CHILDQ	vitamin b12	CHEBI:176843
+eb_b035a_med4_name_CHILDQ	vitamin b12	CHEBI:176843
+eb_b036a_med5_name_CHILDQ	vitamin b12	CHEBI:176843
+eb_b041a_med10_name_CHILDQ	vitamin b12	CHEBI:176843
+eb_b034a_med3_name_CHILDQ	vitamin c	CHEBI:176783
+eb_b035a_med4_name_CHILDQ	vitamin c	CHEBI:176783
+eb_b037a_med6_name_CHILDQ	vitamin c	CHEBI:176783
+eb_b038a_med7_name_CHILDQ	vitamin c	CHEBI:176783
+eb_b039a_med8_name_CHILDQ	vitamin c	CHEBI:176783
+eb_b040a_med9_name_CHILDQ	vitamin c	CHEBI:176783
+eb_b032a_med1_name_CHILDQ	vitamin d	CHEBI:27300
+eb_b033a_med2_name_CHILDQ	vitamin d	CHEBI:27300
+eb_b034a_med3_name_CHILDQ	vitamin d	CHEBI:27300
+eb_b035a_med4_name_CHILDQ	vitamin d	CHEBI:27300
+eb_b036a_med5_name_CHILDQ	vitamin d	CHEBI:27300
+eb_b037a_med6_name_CHILDQ	vitamin d	CHEBI:27300
+eb_b038a_med7_name_CHILDQ	vitamin d	CHEBI:27300
+eb_b039a_med8_name_CHILDQ	vitamin d	CHEBI:27300
+eb_b040a_med9_name_CHILDQ	vitamin d	CHEBI:27300
+eb_b041a_med10_name_CHILDQ	vitamin d	CHEBI:27300
+eb_b032a_med1_name_CHILDQ	vitamin d2	CHEBI:28934
+eb_b035a_med4_name_CHILDQ	vitamin d2	CHEBI:28934
+eb_b037a_med6_name_CHILDQ	vitamin d2	CHEBI:28934
+eb_b039a_med8_name_CHILDQ	vitamin d2	CHEBI:28934
+eb_b040a_med9_name_CHILDQ	vitamin d2	CHEBI:28934
+eb_b032a_med1_name_CHILDQ	vitamin d3	CHEBI:28940
+eb_b033a_med2_name_CHILDQ	vitamin d3	CHEBI:28940
+eb_b034a_med3_name_CHILDQ	vitamin d3	CHEBI:28940
+eb_b035a_med4_name_CHILDQ	vitamin d3	CHEBI:28940
+eb_b036a_med5_name_CHILDQ	vitamin d3	CHEBI:28940
+eb_b037a_med6_name_CHILDQ	vitamin d3	CHEBI:28940
+eb_b038a_med7_name_CHILDQ	vitamin d3	CHEBI:28940
+eb_b041a_med10_name_CHILDQ	vitamin d3	CHEBI:28940
+eb_b032a_med1_name_CHILDQ	vitamin e	CHEBI:33234
+eb_b035a_med4_name_CHILDQ	vitamin e	CHEBI:33234
+eb_b041a_med10_name_CHILDQ	vitamin e	CHEBI:33234
+eb_b032a_med1_name_CHILDQ	vyvanse	CHEBI:135925
+eb_b033a_med2_name_CHILDQ	vyvanse	CHEBI:135925
+eb_b036a_med5_name_CHILDQ	vyvanse	CHEBI:135925
+eb_b041a_med10_name_CHILDQ	vyvanse	CHEBI:135925
+eb_b032a_med1_name_CHILDQ	warfarin	CHEBI:10033
+eb_b033a_med2_name_CHILDQ	warfarin	CHEBI:10033
+eb_b032a_med1_name_CHILDQ	wellbutrin	CHEBI:3220
+eb_b033a_med2_name_CHILDQ	wellbutrin	CHEBI:3220
+eb_b034a_med3_name_CHILDQ	wellbutrin	CHEBI:3220
+eb_b035a_med4_name_CHILDQ	wellbutrin	CHEBI:3220
+eb_b036a_med5_name_CHILDQ	wellbutrin	CHEBI:3220
+eb_b037a_med6_name_CHILDQ	wellbutrin	CHEBI:3220
+eb_b038a_med7_name_CHILDQ	wellbutrin	CHEBI:3220
+eb_b032a_med1_name_CHILDQ	xalatan	CHEBI:6384
+eb_b032a_med1_name_CHILDQ	xanax	CHEBI:2611
+eb_b033a_med2_name_CHILDQ	xanax	CHEBI:2611
+eb_b034a_med3_name_CHILDQ	xanax	CHEBI:2611
+eb_b037a_med6_name_CHILDQ	xanax	CHEBI:2611
+eb_b032a_med1_name_CHILDQ	xarelto	CHEBI:68579
+eb_b033a_med2_name_CHILDQ	xarelto	CHEBI:68579
+eb_b034a_med3_name_CHILDQ	xarelto	CHEBI:68579
+eb_b032a_med1_name_CHILDQ	xeljanz	CHEBI:71197
+eb_b037a_med6_name_CHILDQ	xeljanz	CHEBI:71197
+eb_b039a_med8_name_CHILDQ	xeljanz	CHEBI:71197
+eb_b034a_med3_name_CHILDQ	xeloda	CHEBI:31348
+eb_b033a_med2_name_CHILDQ	xiidra	CHEBI:133023
+eb_b040a_med9_name_CHILDQ	xyrem	CHEBI:30830
+eb_b033a_med2_name_CHILDQ	xyzal	CHEBI:94559
+eb_b036a_med5_name_CHILDQ	zafirlukast	CHEBI:10100
+eb_b034a_med3_name_CHILDQ	zaleplon	CHEBI:10102
+eb_b036a_med5_name_CHILDQ	zaleplon	CHEBI:10102
+eb_b032a_med1_name_CHILDQ	zantac	CHEBI:8777
+eb_b033a_med2_name_CHILDQ	zantac	CHEBI:8777
+eb_b034a_med3_name_CHILDQ	zantac	CHEBI:8777
+eb_b035a_med4_name_CHILDQ	zantac	CHEBI:8777
+eb_b036a_med5_name_CHILDQ	zantac	CHEBI:8777
+eb_b037a_med6_name_CHILDQ	zantac	CHEBI:8777
+eb_b038a_med7_name_CHILDQ	zantac	CHEBI:8777
+eb_b039a_med8_name_CHILDQ	zantac	CHEBI:8777
+eb_b036a_med5_name_CHILDQ	zeaxanthin	CHEBI:27547
+eb_b037a_med6_name_CHILDQ	zeaxanthin	CHEBI:27547
+eb_b032a_med1_name_CHILDQ	zetia	CHEBI:49040
+eb_b033a_med2_name_CHILDQ	zetia	CHEBI:49040
+eb_b036a_med5_name_CHILDQ	zetia	CHEBI:49040
+eb_b037a_med6_name_CHILDQ	zetia	CHEBI:49040
+eb_b038a_med7_name_CHILDQ	zetia	CHEBI:49040
+eb_b033a_med2_name_CHILDQ	zinc	CHEBI:27363
+eb_b032a_med1_name_CHILDQ	zocor	CHEBI:9150
+eb_b033a_med2_name_CHILDQ	zocor	CHEBI:9150
+eb_b034a_med3_name_CHILDQ	zocor	CHEBI:9150
+eb_b035a_med4_name_CHILDQ	zocor	CHEBI:9150
+eb_b036a_med5_name_CHILDQ	zocor	CHEBI:9150
+eb_b037a_med6_name_CHILDQ	zocor	CHEBI:9150
+eb_b033a_med2_name_CHILDQ	zolmitriptan	CHEBI:10124
+eb_b036a_med5_name_CHILDQ	zolmitriptan	CHEBI:10124
+eb_b032a_med1_name_CHILDQ	zoloft	CHEBI:9124
+eb_b033a_med2_name_CHILDQ	zoloft	CHEBI:9124
+eb_b035a_med4_name_CHILDQ	zoloft	CHEBI:9124
+eb_b038a_med7_name_CHILDQ	zoloft	CHEBI:9124
+eb_b032a_med1_name_CHILDQ	zolpidem	CHEBI:10125
+eb_b033a_med2_name_CHILDQ	zolpidem	CHEBI:10125
+eb_b034a_med3_name_CHILDQ	zolpidem	CHEBI:10125
+eb_b035a_med4_name_CHILDQ	zolpidem	CHEBI:10125
+eb_b036a_med5_name_CHILDQ	zolpidem	CHEBI:10125
+eb_b038a_med7_name_CHILDQ	zolpidem	CHEBI:10125
+eb_b032a_med1_name_CHILDQ	zolpidem tartrate	CHEBI:10126
+eb_b033a_med2_name_CHILDQ	zolpidem tartrate	CHEBI:10126
+eb_b034a_med3_name_CHILDQ	zolpidem tartrate	CHEBI:10126
+eb_b036a_med5_name_CHILDQ	zolpidem tartrate	CHEBI:10126
+eb_b038a_med7_name_CHILDQ	zolpidem tartrate	CHEBI:10126
+eb_b034a_med3_name_CHILDQ	zomig	CHEBI:10124
+eb_b036a_med5_name_CHILDQ	zonisamide	CHEBI:10127
+eb_b032a_med1_name_CHILDQ	zyprexa	CHEBI:7735
